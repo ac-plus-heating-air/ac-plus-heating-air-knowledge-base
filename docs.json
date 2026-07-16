@@ -1,0 +1,24 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "AC Plus Heating & Air",
+  "colors": {
+    "primary": "#0B6BB3",
+    "light": "#3B9CD9",
+    "dark": "#0B6BB3"
+  },
+  "favicon": "/favicon.svg",
+  "navigation": {
+    "groups": [
+      {
+        "group": "AC Plus Heating & Air",
+        "pages": [
+          "index"
+        ]
+      }
+    ]
+  },
+  "footer": {
+    "socials": {}
+  }
+}
