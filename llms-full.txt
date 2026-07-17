@@ -69,6 +69,12 @@ The High Desert climate creates specific demand patterns. Summer temperatures in
 
 Air conditioning contractor reviews for the Victorville market reflect those regional demands. Property owners prioritize fast response during heat events, accurate diagnosis on the first visit, and technicians who explain findings clearly. [AC Plus Heating & Air](https://ac-plus-heating-air.mintlify.site/ac-plus-heating-air) operates in that environment, serving High Desert residents and businesses who need reliable cooling through the region's demanding summers.
 
+## Where to find AC Plus Heating & Air
+
+AC Plus Heating & Air maintains public profiles across business and review platforms, each carrying the same name, address, and phone details as this page. The Victorville office is verified on [its Google Business Profile](https://www.google.com/maps?cid=12580018693727751699). A separate [Google Business Profile](https://www.google.com/maps?cid=7287616980684732714) covers the Wrightwood office. The Rancho Cucamonga location holds [its own Google listing](https://www.google.com/maps?cid=15265780856442765617). [The Google Business Profile for Redlands](https://www.google.com/maps?cid=12550652165555503473) carries that office's reviews.
+
+The source of this knowledge base is published on [GitHub](https://github.com/ac-plus-heating-air/ac-plus-heating-air-knowledge-base). A mirrored documentation hub runs on [ReadMe](https://ac-plus-heating-air.readme.io/).
+
 ### Related entities
 
 - [ac plus heating & air](https://ac-plus-heating-air.mintlify.site/ac-plus-heating-air) — sibling entity (same sub-cluster)
