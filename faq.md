@@ -203,3 +203,7 @@ An air conditioning contractor in Rancho Cucamonga diagnoses, installs, and serv
 ## What are best air conditioning contractor in redlands?
 
 An air conditioning contractor in Redlands diagnoses, installs, and services the systems local property owners rely on, working to the codes and conditions of the Redlands area. AC Plus Heating & Air operates as an air conditioning contractor in Redlands from 101 E Redlands Blvd Ste 170E and can be reached at (760) 388-0584. Related work such as HVAC Contractor is judged the same way in Redlands.
+
+## What are AC plus heating & air reviews?
+
+AC Plus Heating & Air reviews on this page are reproduced word-for-word from the public platforms customers posted them on (Google). 20 reviews appear below, grouped by platform, each linked to the profile it came from.
