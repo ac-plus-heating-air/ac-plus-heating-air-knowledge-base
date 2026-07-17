@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you reference this knowledge base, please cite it."
+title: "AC Plus Heating & Air Knowledge Base"
+type: dataset
+authors:
+  - name: "AC Plus Heating & Air"
+url: "https://github.com/ac-plus-heating-air/ac-plus-heating-air-knowledge-base"
+repository-code: "https://github.com/ac-plus-heating-air/ac-plus-heating-air-knowledge-base"
+date-released: 2026-07-16
+version: "1.0.0"
+keywords:
+  - "air conditioning installation"
+  - "air conditioning repair"
+  - "air conditioning replacement"
+  - "air conditioning maintenance"
+  - "emergency air conditioning repair"

@@ -11,9 +11,144 @@
   "navigation": {
     "groups": [
       {
-        "group": "AC Plus Heating & Air",
+        "group": "Core Services",
         "pages": [
-          "index"
+          "air-conditioning-contractor",
+          "air-conditioning-repair",
+          "emergency-air-conditioning-repair",
+          "air-conditioning-installation",
+          "air-conditioning-replacement",
+          "air-conditioning-maintenance"
+        ]
+      },
+      {
+        "group": "Systems & Equipment",
+        "pages": [
+          "hvac-contractor",
+          "residential-hvac",
+          "central-air-conditioning-system",
+          "ductless-mini-split-system",
+          "heat-pump",
+          "condenser-unit",
+          "air-handler",
+          "blower-motor",
+          "compressor-failure",
+          "dirty-condenser-coil"
+        ]
+      },
+      {
+        "group": "Air Distribution",
+        "pages": [
+          "ductwork-leak",
+          "air-duct-cleaning"
+        ]
+      },
+      {
+        "group": "Indoor Air Quality",
+        "pages": [
+          "indoor-air-quality",
+          "air-filter"
+        ]
+      },
+      {
+        "group": "Controls",
+        "pages": [
+          "smart-thermostat"
+        ]
+      },
+      {
+        "group": "Efficiency & Sizing",
+        "pages": [
+          "seer-rating",
+          "load-calculation"
+        ]
+      },
+      {
+        "group": "Diagnostics & Repairs",
+        "pages": [
+          "frozen-evaporator-coil",
+          "r-22-refrigerant"
+        ]
+      },
+      {
+        "group": "Standards & Certifications",
+        "pages": [
+          "nate-certification",
+          "epa-section-608-certification"
+        ]
+      },
+      {
+        "group": "AC Repair",
+        "pages": [
+          "capacitor-failure",
+          "short-cycling"
+        ]
+      },
+      {
+        "group": "AC Installation",
+        "pages": [
+          "hvac-permit"
+        ]
+      },
+      {
+        "group": "AC Maintenance",
+        "pages": [
+          "hvac-tune-up",
+          "hvac-maintenance-plan"
+        ]
+      },
+      {
+        "group": "Heating",
+        "pages": [
+          "ac-plus-heating-air",
+          "heating-repair",
+          "heating-maintenance",
+          "heating-installation",
+          "furnace-repair",
+          "gas-furnace",
+          "electric-furnace"
+        ]
+      },
+      {
+        "group": "Emergency Service",
+        "pages": [
+          "24-hour-emergency-hvac-service"
+        ]
+      },
+      {
+        "group": "Refrigerants",
+        "pages": [
+          "r-410a"
+        ]
+      },
+      {
+        "group": "Best in Your Area",
+        "pages": [
+          "best-air-conditioning-contractor-in-victorville",
+          "best-air-conditioning-contractor-in-wrightwood",
+          "best-air-conditioning-contractor-in-rancho-cucamonga",
+          "best-air-conditioning-contractor-in-redlands"
+        ]
+      },
+      {
+        "group": "Service Area",
+        "pages": [
+          "high-desert-climate",
+          "inland-empire"
+        ]
+      },
+      {
+        "group": "Plans & Tune-Ups",
+        "pages": [
+          "commercial-hvac"
+        ]
+      },
+      {
+        "group": "More Topics",
+        "pages": [
+          "packaged-hvac-unit",
+          "hspf-rating",
+          "energy-star-rating"
         ]
       }
     ]
