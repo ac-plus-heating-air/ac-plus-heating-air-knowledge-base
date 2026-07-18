@@ -206,4 +206,4 @@ An air conditioning contractor in Redlands diagnoses, installs, and services the
 
 ## What are AC plus heating & air reviews?
 
-AC Plus Heating & Air reviews on this page are reproduced word-for-word from the public platforms customers posted them on (Google). 20 reviews appear below, grouped by platform, each linked to the profile it came from.
+AC Plus Heating & Air reviews on this page are reproduced word-for-word from the public platforms customers posted them on (Google, Yelp). 25 reviews appear below, grouped by platform, each linked to the profile it came from.
