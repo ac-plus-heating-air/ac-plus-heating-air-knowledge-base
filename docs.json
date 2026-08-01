@@ -13,7 +13,13 @@
       {
         "group": "Core Services",
         "pages": [
-          "new-construction-air-conditioning-installation"
+          "new-construction-air-conditioning-installation",
+          "air-conditioning-contractor",
+          "air-conditioning-repair",
+          "emergency-air-conditioning-repair",
+          "air-conditioning-installation",
+          "air-conditioning-replacement",
+          "air-conditioning-maintenance"
         ]
       },
       {
@@ -21,7 +27,17 @@
         "pages": [
           "ductless-mini-split-air-conditioner",
           "hvac-zoning-system",
-          "failed-compressor"
+          "failed-compressor",
+          "hvac-contractor",
+          "residential-hvac",
+          "central-air-conditioning-system",
+          "ductless-mini-split-system",
+          "heat-pump",
+          "condenser-unit",
+          "air-handler",
+          "blower-motor",
+          "compressor-failure",
+          "dirty-condenser-coil"
         ]
       },
       {
@@ -30,14 +46,18 @@
           "hvac-ductwork",
           "ductwork-installation",
           "duct-sealing",
-          "airflow-testing"
+          "airflow-testing",
+          "ductwork-leak",
+          "air-duct-cleaning"
         ]
       },
       {
         "group": "Efficiency & Sizing",
         "pages": [
           "high-energy-bills",
-          "california-building-energy-efficiency-standards"
+          "california-building-energy-efficiency-standards",
+          "seer-rating",
+          "load-calculation"
         ]
       },
       {
@@ -49,13 +69,17 @@
           "electrical-disconnect-switch",
           "r-32-refrigerant",
           "uneven-indoor-temperatures",
-          "refrigerant-management-regulations"
+          "refrigerant-management-regulations",
+          "frozen-evaporator-coil",
+          "r-22-refrigerant"
         ]
       },
       {
         "group": "Standards & Certifications",
         "pages": [
-          "building-codes-compliance"
+          "building-codes-compliance",
+          "nate-certification",
+          "epa-section-608-certification"
         ]
       },
       {
@@ -65,19 +89,23 @@
           "system-startup-and-commissioning",
           "permit-pull",
           "hvac-installation-permits",
-          "ahri-certified-equipment"
+          "ahri-certified-equipment",
+          "hvac-permit"
         ]
       },
       {
         "group": "AC Maintenance",
         "pages": [
-          "manufacturer-warranty-registration"
+          "manufacturer-warranty-registration",
+          "hvac-tune-up",
+          "hvac-maintenance-plan"
         ]
       },
       {
         "group": "Refrigerants",
         "pages": [
-          "r-22-phase-out"
+          "r-22-phase-out",
+          "r-410a"
         ]
       },
       {
@@ -108,7 +136,76 @@
           "professional-installation-process",
           "hers-rating",
           "hers-verification-test",
-          "cost-estimation"
+          "cost-estimation",
+          "packaged-hvac-unit",
+          "hspf-rating",
+          "energy-star-rating"
+        ]
+      },
+      {
+        "group": "Indoor Air Quality",
+        "pages": [
+          "indoor-air-quality",
+          "air-filter"
+        ]
+      },
+      {
+        "group": "Controls",
+        "pages": [
+          "smart-thermostat"
+        ]
+      },
+      {
+        "group": "AC Repair",
+        "pages": [
+          "capacitor-failure",
+          "short-cycling"
+        ]
+      },
+      {
+        "group": "Heating",
+        "pages": [
+          "ac-plus-heating-air",
+          "heating-repair",
+          "heating-maintenance",
+          "heating-installation",
+          "furnace-repair",
+          "gas-furnace",
+          "electric-furnace"
+        ]
+      },
+      {
+        "group": "Emergency Service",
+        "pages": [
+          "24-hour-emergency-hvac-service"
+        ]
+      },
+      {
+        "group": "Best in Your Area",
+        "pages": [
+          "best-air-conditioning-contractor-in-victorville",
+          "best-air-conditioning-contractor-in-wrightwood",
+          "best-air-conditioning-contractor-in-rancho-cucamonga",
+          "best-air-conditioning-contractor-in-redlands"
+        ]
+      },
+      {
+        "group": "Service Area",
+        "pages": [
+          "high-desert-climate",
+          "inland-empire"
+        ]
+      },
+      {
+        "group": "Plans & Tune-Ups",
+        "pages": [
+          "commercial-hvac"
+        ]
+      },
+      {
+        "group": "Reviews",
+        "pages": [
+          "ac-plus-heating-air-reviews"
         ]
       }
     ]
