@@ -13,148 +13,102 @@
       {
         "group": "Core Services",
         "pages": [
-          "air-conditioning-contractor",
-          "air-conditioning-repair",
-          "emergency-air-conditioning-repair",
-          "air-conditioning-installation",
-          "air-conditioning-replacement",
-          "air-conditioning-maintenance"
+          "new-construction-air-conditioning-installation"
         ]
       },
       {
         "group": "Systems & Equipment",
         "pages": [
-          "hvac-contractor",
-          "residential-hvac",
-          "central-air-conditioning-system",
-          "ductless-mini-split-system",
-          "heat-pump",
-          "condenser-unit",
-          "air-handler",
-          "blower-motor",
-          "compressor-failure",
-          "dirty-condenser-coil"
+          "ductless-mini-split-air-conditioner",
+          "hvac-zoning-system",
+          "failed-compressor"
         ]
       },
       {
         "group": "Air Distribution",
         "pages": [
-          "ductwork-leak",
-          "air-duct-cleaning"
-        ]
-      },
-      {
-        "group": "Indoor Air Quality",
-        "pages": [
-          "indoor-air-quality",
-          "air-filter"
-        ]
-      },
-      {
-        "group": "Controls",
-        "pages": [
-          "smart-thermostat"
+          "hvac-ductwork",
+          "ductwork-installation",
+          "duct-sealing",
+          "airflow-testing"
         ]
       },
       {
         "group": "Efficiency & Sizing",
         "pages": [
-          "seer-rating",
-          "load-calculation"
+          "high-energy-bills",
+          "california-building-energy-efficiency-standards"
         ]
       },
       {
         "group": "Diagnostics & Repairs",
         "pages": [
-          "frozen-evaporator-coil",
-          "r-22-refrigerant"
+          "ac-system-replacement",
+          "evaporator-coil",
+          "condensate-drain-line",
+          "electrical-disconnect-switch",
+          "r-32-refrigerant",
+          "uneven-indoor-temperatures",
+          "refrigerant-management-regulations"
         ]
       },
       {
         "group": "Standards & Certifications",
         "pages": [
-          "nate-certification",
-          "epa-section-608-certification"
-        ]
-      },
-      {
-        "group": "AC Repair",
-        "pages": [
-          "capacitor-failure",
-          "short-cycling"
+          "building-codes-compliance"
         ]
       },
       {
         "group": "AC Installation",
         "pages": [
-          "hvac-permit"
+          "split-system-ac-installation",
+          "system-startup-and-commissioning",
+          "permit-pull",
+          "hvac-installation-permits",
+          "ahri-certified-equipment"
         ]
       },
       {
         "group": "AC Maintenance",
         "pages": [
-          "hvac-tune-up",
-          "hvac-maintenance-plan"
-        ]
-      },
-      {
-        "group": "Heating",
-        "pages": [
-          "ac-plus-heating-air",
-          "heating-repair",
-          "heating-maintenance",
-          "heating-installation",
-          "furnace-repair",
-          "gas-furnace",
-          "electric-furnace"
-        ]
-      },
-      {
-        "group": "Emergency Service",
-        "pages": [
-          "24-hour-emergency-hvac-service"
+          "manufacturer-warranty-registration"
         ]
       },
       {
         "group": "Refrigerants",
         "pages": [
-          "r-410a"
-        ]
-      },
-      {
-        "group": "Best in Your Area",
-        "pages": [
-          "best-air-conditioning-contractor-in-victorville",
-          "best-air-conditioning-contractor-in-wrightwood",
-          "best-air-conditioning-contractor-in-rancho-cucamonga",
-          "best-air-conditioning-contractor-in-redlands"
-        ]
-      },
-      {
-        "group": "Service Area",
-        "pages": [
-          "high-desert-climate",
-          "inland-empire"
-        ]
-      },
-      {
-        "group": "Plans & Tune-Ups",
-        "pages": [
-          "commercial-hvac"
-        ]
-      },
-      {
-        "group": "Reviews",
-        "pages": [
-          "ac-plus-heating-air-reviews"
+          "r-22-phase-out"
         ]
       },
       {
         "group": "More Topics",
         "pages": [
-          "packaged-hvac-unit",
-          "hspf-rating",
-          "energy-star-rating"
+          "multi-zone-mini-split-installation",
+          "packaged-ac-unit-installation",
+          "ac-unit-upgrade-installation",
+          "air-conditioning-system-sizing",
+          "condensate-drain-system",
+          "concrete-equipment-pad",
+          "air-distribution-system",
+          "air-vents",
+          "equipment-placement",
+          "insulation",
+          "inadequate-cooling-capacity",
+          "inefficient-cooling",
+          "high-utility-bills",
+          "end-of-life-hvac-system",
+          "obsolete-ac-system",
+          "noise-level-considerations",
+          "old-ac-unit-removal",
+          "installation-safety-measures",
+          "hvac-safety-standards",
+          "cslb-license",
+          "rebates-and-incentives",
+          "utility-rebate-programs",
+          "professional-installation-process",
+          "hers-rating",
+          "hers-verification-test",
+          "cost-estimation"
         ]
       }
     ]
