@@ -83,6 +83,13 @@
         ]
       },
       {
+        "group": "AC Repair",
+        "pages": [
+          "capacitor-failure",
+          "short-cycling"
+        ]
+      },
+      {
         "group": "AC Installation",
         "pages": [
           "split-system-ac-installation",
@@ -153,13 +160,6 @@
         "group": "Controls",
         "pages": [
           "smart-thermostat"
-        ]
-      },
-      {
-        "group": "AC Repair",
-        "pages": [
-          "capacitor-failure",
-          "short-cycling"
         ]
       },
       {
