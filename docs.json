@@ -85,6 +85,7 @@
       {
         "group": "AC Repair",
         "pages": [
+          "ac-repair-service-warranty",
           "capacitor-failure",
           "short-cycling"
         ]
@@ -104,6 +105,7 @@
         "group": "AC Maintenance",
         "pages": [
           "manufacturer-warranty-registration",
+          "ac-parts-manufacturer-warranty",
           "hvac-tune-up",
           "hvac-maintenance-plan"
         ]
