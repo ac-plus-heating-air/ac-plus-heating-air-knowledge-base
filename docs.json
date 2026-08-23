@@ -70,6 +70,7 @@
           "r-32-refrigerant",
           "uneven-indoor-temperatures",
           "refrigerant-management-regulations",
+          "refrigerant-line-set",
           "frozen-evaporator-coil",
           "r-22-refrigerant"
         ]
@@ -146,6 +147,7 @@
           "hers-rating",
           "hers-verification-test",
           "cost-estimation",
+          "ac-filter",
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
