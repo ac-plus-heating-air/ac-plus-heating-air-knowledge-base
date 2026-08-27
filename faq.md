@@ -203,3 +203,131 @@ Cost estimation, called a Service Estimate or Installation Quote, is a structure
 ## What is AHRI certified equipment?
 
 AHRI Certified Equipment, known as AHRI verified equipment, is a type of HVAC Equipment Certification in which cooling and heating units are independently tested and verified by the Air-Conditioning, Heating, and Refrigeration Institute to confirm that published performance ratings match real-world output, covering rated capacity in BTU/hr, Seasonal Energy Efficiency Ratio (SEER2), Energy Efficiency Ratio (EER2), Heating Seasonal Performance Factor (HSPF2) and other efficiency metrics across central air conditioning systems, ductless mini split systems, heat pumps and packaged units. The certification exists because manufacturers self-report performance data, and without third-party verification those numbers carry no accountability.
+
+## What is central air conditioner repair?
+
+Central air conditioner repair, called Ducted Air Conditioning Service or Whole-House AC Repair, is the service of diagnosing and fixing malfunctions in central AC units, covering the compressor, refrigerant circuit, air handler, electrical controls, condensate drain, evaporator coil and the ductwork that distributes conditioned air through the home. It is a type of air conditioner repair, distinguished from window-unit or portable-unit service by the fact that the equipment is permanently installed and serves the entire house through a single ducted system. AC Plus HVAC provides this service to homeowners across Victorville, CA.
+
+## What is an AC diagnostic inspection?
+
+An AC Diagnostic Inspection, called an air conditioning diagnostic check, is a structured evaluation of a cooling system that identifies faults, performance deficiencies and component failures across refrigerant circuits, electrical controls, thermostat calibration, airflow paths and mechanical parts. An AC system evaluation gives a technician the factual baseline needed before any repair decision is made, which is why it sits at the front of every responsible service sequence. AC Plus performs professional AC diagnostic inspections on central split systems, ductless equipment and heat pumps throughout Victorville and the High Desert.
+
+## What is ductless mini-split repair?
+
+Ductless mini-split repair, called mini-split service or split-system repair service, is the diagnosis and correction of malfunctions in a ductless HVAC system, covering the indoor air handler, the outdoor compressor and condenser unit, the refrigerant line set, electrical connections, control boards and drainage components. Ductless mini-split repair is a type of air conditioning repair, and it applies specifically to systems that condition individual zones without relying on a central duct network. A single outdoor unit can serve anywhere from one to eight indoor air handlers, so a fault in one zone does not always mean the entire system is down, but it does mean a technician needs to isolate which component failed before any work begins. Homeowners can find more about related services at the air conditioning repair knowledge hub.
+
+## What is heat pump cooling system repair?
+
+Heat Pump Cooling System Repair, called Reverse-Cycle Cooling Repair, is the diagnosis and correction of faults in a heat pump's cooling function, covering refrigerant leaks, reversing valve failures, compressor performance loss, electrical faults, coil contamination and control-board malfunctions that prevent the system from moving heat out of a conditioned space. Heat pump cooling system repair is a type of air conditioning repair, because the heat pump operates in cooling mode by running the refrigeration cycle in the same direction as a conventional AC unit. AC Plus Heating and Air handles this work for residential and light-commercial properties throughout Victorville, CA.
+
+## What is package unit repair?
+
+Package unit repair, called Rooftop Unit Repair, is the diagnosis and restoration of a self-contained all-in-one heating and cooling unit. It houses the compressor, condenser, evaporator coil, air handler, and heat exchanger inside a single cabinet. These cabinets are typically mounted on a rooftop or ground pad at residential and light-commercial properties. Unlike a split system, every mechanical component lives in one enclosure. That means a fault in any part affects the entire system at once. Most repairs take 2 to 4 hours. Units range from 2 to 5 tons of cooling capacity. AC Plus handles local package unit repair across Victorville and the surrounding High Desert.
+
+## What is a run capacitor?
+
+A run capacitor. Called an AC capacitor or motor run capacitor. Is an electrical component that stores and discharges energy continuously to keep AC motors running through every cooling cycle. It powers the compressor, the condenser fan motor, and the blower motor in a central air conditioning system. Run capacitors are built from conductor plates separated by a dielectric film, housed in an aluminum casing with terminal leads. Without one, an AC motor cannot sustain operation after startup.
+
+## What is a start capacitor?
+
+A start capacitor, called a Motor Start Capacitor, is a type of electrical capacitor that delivers a short, high-energy current boost to an AC motor at the moment it starts, providing the phase-shifted torque needed to overcome the motor's initial inertia and bring it up to operating speed. Start capacitors are found in air conditioning compressors, refrigeration units, heat pump compressors and other single-phase induction motors that cannot generate enough starting torque on their own. The component is an electrolytic design built around an aluminum cylinder, terminal leads and an insulating sleeve, and it disconnects from the circuit within a fraction of a second once the motor reaches roughly 75 percent of its rated speed.
+
+## What is an AC contactor?
+
+An AC contactor is an electromechanical switching device. Called a motor contactor, it controls high-voltage power to the compressor and condenser fan motor inside a residential or commercial cooling system. It sits between the thermostat's low-voltage signal and the high-voltage components that move refrigerant and air. The contactor receives a 24V signal from the thermostat, closes its contact points, and allows 240V of line voltage to flow to the compressor and fan. Without it, neither component receives power, and the system produces no cooling at all.
+
+## What is contactor failure?
+
+Contactor failure. Called a bad contactor or relay switch failure. Is the inability of an AC contactor relay to open or close its electrical contacts properly. This cuts off the electrical path that powers the compressor, the condenser fan motor, and the rest of the outdoor unit. A contactor is a heavy-duty electromagnetic switch. It is rated for the high-amperage loads a cooling system draws every time it cycles on. When it fails, the entire outdoor unit stops responding to the thermostat signal, even though the indoor air handler and controls may appear completely normal.
+
+## What is condenser fan motor failure?
+
+Condenser fan motor failure, called outdoor fan motor failure, is a type of air conditioning problem in which the motor driving the outdoor unit's fan stops working, halting airflow across the condenser coil and preventing the system from shedding heat. It is a type of HVAC mechanical failure that sits within the broader category of air conditioning problems, and it ranks among the more serious faults a residential or light-commercial system can develop because the consequences spread quickly to other components. In Victorville's desert climate, where outdoor temperatures regularly push well past 100°F, the condenser fan motor works harder and longer than it does in milder regions, making AC fan motor breakdown a common call for AC Plus Heating & Air.
+
+## What is AC circuit board failure?
+
+AC Circuit Board Failure. Called PCB failure or control board failure. Is a malfunction of the air conditioner's electronic control panel. It prevents the system from operating correctly. The failure disrupts signals to the compressor, fan motors, thermostat relay, and safety switches that keep the unit running. AC Circuit Board Failure is a type of HVAC Electrical Failure, meaning the root cause sits in the electrical control layer rather than in the refrigerant circuit or the mechanical components. When the board fails, the entire system loses its command center, and no amount of refrigerant or airflow adjustment restores normal operation until the board itself is diagnosed and repaired.
+
+## What is thermostat malfunction?
+
+Thermostat malfunction, called faulty thermostat behavior, is a failure condition where the thermostat cannot accurately read or signal temperature control commands to the heating and cooling system. It covers problems including temperature deviation from setpoint, unresponsive controls, erratic cycling, signal output failure, and delayed response latency. Thermostat malfunction is a type of HVAC Control System Failure. The fault originates in the command layer rather than in mechanical components like the compressor or blower. Left unaddressed, a faulty thermostat causes the air conditioner or heat pump to run at the wrong times, short-cycle, or stop responding entirely.
+
+## What is an expansion valve?
+
+An expansion valve, called a TXV (thermostatic expansion valve), is a refrigerant metering device that reduces high-pressure liquid refrigerant to a low-pressure state and controls exactly how much refrigerant enters the evaporator coil, making it one of the four core components in every refrigeration cycle alongside the compressor, condenser and evaporator. As a type of refrigerant metering device, the TXV sits between the condenser outlet and the evaporator inlet, where it performs the pressure drop that allows the refrigerant to absorb heat from indoor air. Without precise metering at this point, the entire central air conditioning system loses the ability to regulate cooling output.
+
+## What is an AC filter?
+
+An AC filter, called a furnace filter or HVAC filter, is a replaceable media barrier that removes airborne particles from the air stream entering an air conditioning system, capturing dust, pollen, pet dander, mold spores and other particulates before they reach the blower, evaporator coil and ductwork. AC filters are a type of HVAC filtration component, sitting at the return-air intake where all recirculated air must pass through them before conditioning begins. Every forced-air system relies on one, from a central air conditioning system to a ductless mini split system with a washable internal filter panel.
+
+## What is an AC drain pan?
+
+An AC drain pan, called a condensate drain pan or drip pan, is a shallow basin mounted beneath the evaporator coil of an air handler that collects the condensation water the coil produces during normal cooling operation, channels it toward a drain port, and prevents that moisture from reaching the surrounding structure, electrical components and flooring. The pan is a type of HVAC Condensate Management Component, meaning its sole function is passive moisture collection rather than active removal. Every central air conditioning system that uses a split-system air handler includes at least one condensate pan as a built-in safeguard against water damage. Appointment and service-area details come from AC Plus HVAC.
+
+## What is a refrigerant line set?
+
+A refrigerant line set, called a copper lineset, is a paired copper tubing assembly that carries refrigerant between the indoor evaporator coil and the outdoor condenser unit of a split air conditioning system. It is a type of Refrigerant Piping Assembly. The assembly is made up of two distinct pipes, foam insulation, flare fittings, and the copper tubing itself. Every residential and light-commercial split system depends on this assembly to move refrigerant through its cycle. Without a properly sized and insulated line set, the system cannot transfer heat efficiently, and the compressor works harder than it should.
+
+## What is AC not blowing cold air?
+
+AC Not Blowing Cold Air, called insufficient cooling, is a failure state where an air conditioning unit runs but delivers air that is not adequately cooled, leaving supply air temperature more than 2°F above the thermostat setpoint, with measurable drops in airflow volume at vents, abnormal refrigerant pressure readings on the suction and discharge lines, and a compressor that may be cycling on and off or failing to engage at all. This problem is a type of Air Conditioning System Failure and one of the most common reasons homeowners in Victorville call for a service visit during peak summer heat. AC Plus Heating and Air diagnoses and resolves this failure across residential and light-commercial systems throughout the High Desert.
+
+## What is low AC airflow?
+
+Low AC airflow, called Restricted AC Airflow, is a measurable AC system performance problem. The system moves less air than its rated CFM capacity through the supply ducts, producing weak output at vents and reduced cooling across living spaces. Run cycles grow longer. Left unaddressed, the problem causes progressive damage to the evaporator coil and compressor. It is a type of AC System Performance Problem, meaning the refrigerant circuit and electrical components may be fully intact while the system still fails to cool the home because air volume is the limiting factor. Diagnosing low AC airflow in home settings requires measuring three things: airflow velocity in CFM, static pressure in inches of water gauge, and the temperature differential across the evaporator coil. Each measurement points to a different root cause, which is why a technician works through them in sequence rather than guessing at parts. Local scheduling and service details are available from AC Plus Heating & Air.
+
+## What is AC leaking water?
+
+AC leaking water is called an HVAC water leak or condensate overflow. It is a type of air conditioning problem in which water discharges from the unit in an unintended location. Whether from the indoor air handler, the outdoor condenser, or the condensate drain line that connects them. The leak can appear as a slow drip, a pooling puddle beneath the air handler, or a steady stream running down a wall. Water color varies. It ranges from clear to murky depending on how long the system has gone without service. The indoor evaporator coil pulls moisture out of the air every time the system runs, meaning even a minor blockage or component failure can send that moisture somewhere it should not go.
+
+## What is AC freezing up?
+
+AC freezing up, called evaporator coil icing, is a type of Air Conditioner Malfunction in which ice forms on the evaporator coil surface, blocks airflow through the system and prevents the unit from transferring heat out of the building. The condition develops when the coil surface temperature drops below 32°F, which causes moisture in the air to freeze on contact with the coil fins, the refrigerant lines and the surrounding cabinet. Left unaddressed, a frozen AC unit stops cooling the space entirely, forces the compressor to work against a blocked coil and can cause permanent damage to the refrigerant circuit.
+
+## What is a noisy AC unit?
+
+A noisy AC unit, or loud air conditioner, is a type of AC System Malfunction in which the air conditioning system emits unwanted sounds during operation, including rattling, grinding, buzzing, humming, banging, squealing and clicking, each pointing to a different mechanical or electrical fault inside the system. A properly functioning AC system produces a steady, low-level hum that stays below 60 dB(A) at normal operating distance. Sound levels above that threshold, or any sudden change in noise type, are the clearest early signal that something inside the unit needs attention. AC Plus Heating and Air diagnoses and repairs noisy AC units throughout Victorville, CA.
+
+## What are foul AC odors?
+
+Foul AC odors, called HVAC odor emissions, are unpleasant smells produced by an air conditioning unit due to biological growth, chemical faults, or mechanical failures inside the system, including mold spore off-gassing from the evaporator coil, burnt electrical insulation from failing components, stagnant water in the condensate drain, refrigerant leaks from cracked lines and refrigerant leaks from cracked lines and fittings, and debris accumulation inside the ductwork. These smells are a type of AC System Malfunction Symptoms, meaning they signal an underlying fault rather than a standalone problem. AC Plus serves Victorville homeowners dealing with these complaints across central air conditioning systems, ductless units, and heat pumps.
+
+## What is electrical faults in AC system?
+
+Electrical faults in AC system. Called air conditioner wiring faults. Are failures in an AC unit's wiring, controls, or power components. These failures prevent the system from operating correctly. Specific examples include damaged contactors, burnt wiring, failed capacitors, tripped breakers, loose terminal connections, and faulty control boards. Such faults are a type of AC System Malfunction. They rank among the most common reasons a cooling system stops working mid-season in the Inland Empire. Left unaddressed, an HVAC electrical malfunction can damage otherwise healthy mechanical components, which means diagnosis should happen before any refrigerant or airflow work begins.
+
+## What is AC coil cleaning service?
+
+AC Coil Cleaning Service, called AC coil maintenance, is the process of removing accumulated dirt, dust, debris and biological buildup from an air conditioner's evaporator and condenser coils so the system transfers heat the way it was designed to. The service covers both coil sets, the indoor evaporator coil that absorbs heat from the air inside the home and the outdoor condenser coil that releases that heat outside, along with a coil inspection step, chemical coil cleaner application and a rinse and debris removal process. Coil fouling is the direct opposite of this service: a state of progressive buildup that forces the compressor to work harder, shortens equipment life and raises energy use month after month. AC Plus Heating and Air performs Evaporator and Condenser Coil Cleaning for homeowners and businesses throughout Victorville, CA as part of a broader AC maintenance program.
+
+## What is AC electrical system troubleshooting?
+
+AC electrical system troubleshooting, called HVAC electrical fault finding, is a diagnostic process that identifies faults in an AC unit's electrical circuits and components, including capacitors, contactors, control boards, wiring harnesses, voltage supply lines and low-voltage control circuits. It is a type of Air Conditioning Diagnostic Service, meaning its purpose is diagnosis and fault localization rather than repair or replacement. AC Plus Heating & Air Heating & Air performs this service on central air conditioning systems, ductless units and heat pumps throughout Victorville and the High Desert.
+
+## What is R-22 refrigerant phase-out?
+
+The R-22 Refrigerant Phase-Out, called the Freon Phase-Out, is an EPA-mandated regulatory process that permanently ended the production and import of R-22 refrigerant in the United States. It eliminated a substance responsible for stratospheric ozone depletion across residential cooling systems, commercial air handlers, heat pumps, refrigeration equipment, and any HCFC-22-dependent unit manufactured before 2010. The phase-out is a formal Ozone-Depleting Substance Regulatory Program under the Clean Air Act. Its reach is nationwide. This regulatory framework reshaped how licensed technicians service, repair, and replace older cooling equipment across the country.
+
+## What are EPA refrigerant handling regulations?
+
+EPA Refrigerant Handling Regulations, called Refrigerant Management Rules, are a set of federal environmental compliance standards under the Clean Air Act that govern how refrigerants must be recovered, recycled, reclaimed and disposed of during the service, maintenance and decommissioning of cooling and refrigeration equipment. These rules apply to every technician who opens a refrigerant circuit, whether on a central air conditioning system, a ductless mini split system, or a commercial refrigeration unit. The regulations exist because refrigerants released into the atmosphere deplete the ozone layer and contribute to climate change, making proper handling a legal requirement, not a recommended practice.
+
+## What is an AC repair service warranty?
+
+An AC Repair Service Warranty, called a service assurance plan, is a contractual commitment that covers defects in labor, parts, or both for a defined period following a completed air conditioning repair, protecting homeowners in Victorville from repeat failures on the same component or workmanship issue. The warranty applies to the repair event itself, not to the broader central air conditioning system as a whole, so understanding exactly what the agreement covers before work begins matters. As a type of HVAC Service Guarantee, it sits within a broader category of service protection instruments that govern post-repair accountability across heating and cooling trades.
+
+## What is an AC parts manufacturer warranty?
+
+An AC Parts Manufacturer Warranty, called an OEM Parts Warranty, is a guarantee issued by the original equipment manufacturer. It covers defects in materials or workmanship for a defined period after a replacement part is installed in a cooling system, including compressors, evaporator coils, condenser coils, fan motors, and capacitors. This type of warranty is a Product Warranty. Specifically, a guarantee that the part itself will perform as designed under normal operating conditions. Labor is not covered. It does not apply to damage caused by improper installation, deferred maintenance, or external electrical faults.
+
+## What is california section 608 refrigerant certification?
+
+California Section 608 Refrigerant Certification. Called a Refrigerant Handling License. Is a federally required credential issued under the EPA Clean Air Act. It authorizes technicians to purchase, recover, recycle, and handle refrigerants when servicing air conditioning, refrigeration, and heat pump equipment. The certification exists in four distinct levels: Type I, Type II, Type III, and Universal. Each level is tied to the class of equipment a technician works on, ranging from small sealed appliances to high-pressure commercial systems. Refrigerant venting is illegal under federal law. The credential is the legal threshold every working HVAC technician must clear before touching a refrigerant circuit. AC Plus HVAC serves Victorville and the surrounding High Desert with technicians who meet this federal standard on every service call.
+
+## What is a CSLB HVAC contractor license?
+
+A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing. AC Plus Heating and Air operates in Victorville under this licensing framework.
+
+## What is high desert climate heat stress?
+
+High Desert Climate Heat Stress, called Arid Zone Thermal Stress, is an environmental condition in which extreme dry heat, intense solar radiation and critically low atmospheric moisture combine to impose sustained mechanical strain on cooling systems, building envelopes, electrical components and any equipment that depends on ambient air for heat rejection. In the Victorville area and across the broader Mojave high desert, this condition is not a seasonal spike but a months-long operating reality that pushes every component of a residential or commercial HVAC system well beyond the load assumptions built into standard engineering tables.
