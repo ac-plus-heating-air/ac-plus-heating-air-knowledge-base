@@ -1,7 +1,7 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "AC Plus Heating & Air",
+  "name": "AC Plus Heating & Air Knowledge Base",
   "colors": {
     "primary": "#0B6BB3",
     "light": "#3B9CD9",
@@ -28,6 +28,11 @@
           "ductless-mini-split-air-conditioner",
           "hvac-zoning-system",
           "failed-compressor",
+          "central-air-conditioner-repair",
+          "ductless-mini-split-repair",
+          "heat-pump-cooling-system-repair",
+          "condenser-fan-motor-failure",
+          "cslb-hvac-contractor-license",
           "hvac-contractor",
           "residential-hvac",
           "central-air-conditioning-system",
@@ -47,8 +52,16 @@
           "ductwork-installation",
           "duct-sealing",
           "airflow-testing",
+          "low-ac-airflow",
           "ductwork-leak",
           "air-duct-cleaning"
+        ]
+      },
+      {
+        "group": "Controls",
+        "pages": [
+          "thermostat-malfunction",
+          "smart-thermostat"
         ]
       },
       {
@@ -70,7 +83,13 @@
           "r-32-refrigerant",
           "uneven-indoor-temperatures",
           "refrigerant-management-regulations",
+          "ac-diagnostic-inspection",
           "refrigerant-line-set",
+          "electrical-faults-in-ac-system",
+          "ac-electrical-system-troubleshooting",
+          "r-22-refrigerant-phase-out",
+          "epa-refrigerant-handling-regulations",
+          "california-section-608-refrigerant-certification",
           "frozen-evaporator-coil",
           "r-22-refrigerant"
         ]
@@ -86,6 +105,12 @@
       {
         "group": "AC Repair",
         "pages": [
+          "run-capacitor",
+          "start-capacitor",
+          "ac-contactor",
+          "contactor-failure",
+          "expansion-valve",
+          "foul-ac-odors",
           "ac-repair-service-warranty",
           "capacitor-failure",
           "short-cycling"
@@ -106,6 +131,7 @@
         "group": "AC Maintenance",
         "pages": [
           "manufacturer-warranty-registration",
+          "ac-coil-cleaning-service",
           "ac-parts-manufacturer-warranty",
           "hvac-tune-up",
           "hvac-maintenance-plan"
@@ -116,6 +142,24 @@
         "pages": [
           "r-22-phase-out",
           "r-410a"
+        ]
+      },
+      {
+        "group": "Service Area",
+        "pages": [
+          "high-desert-climate-heat-stress",
+          "high-desert-climate",
+          "inland-empire"
+        ]
+      },
+      {
+        "group": "Reviews",
+        "pages": [
+          "ac-plus-heating-air-victorville-reviews",
+          "ac-plus-heating-air-wrightwood-reviews",
+          "ac-plus-heating-air-rancho-cucamonga-reviews",
+          "ac-plus-heating-air-redlands-reviews",
+          "ac-plus-heating-air-reviews"
         ]
       },
       {
@@ -147,7 +191,14 @@
           "hers-rating",
           "hers-verification-test",
           "cost-estimation",
+          "package-unit-repair",
+          "ac-circuit-board-failure",
           "ac-filter",
+          "ac-drain-pan",
+          "ac-not-blowing-cold-air",
+          "ac-leaking-water",
+          "ac-freezing-up",
+          "noisy-ac-unit",
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
@@ -158,12 +209,6 @@
         "pages": [
           "indoor-air-quality",
           "air-filter"
-        ]
-      },
-      {
-        "group": "Controls",
-        "pages": [
-          "smart-thermostat"
         ]
       },
       {
@@ -194,22 +239,9 @@
         ]
       },
       {
-        "group": "Service Area",
-        "pages": [
-          "high-desert-climate",
-          "inland-empire"
-        ]
-      },
-      {
         "group": "Plans & Tune-Ups",
         "pages": [
           "commercial-hvac"
-        ]
-      },
-      {
-        "group": "Reviews",
-        "pages": [
-          "ac-plus-heating-air-reviews"
         ]
       }
     ]
