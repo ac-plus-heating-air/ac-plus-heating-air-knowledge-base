@@ -51,13 +51,13 @@ Split system AC installation problems most often appear during commissioning or 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation) — sibling entity (same sub-cluster)
+- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation)
 
-- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation) — sibling entity (same sub-cluster)
+- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation)
 
-- [new construction air conditioning installation](https://ac-plus-heating-air.mintlify.site/new-construction-air-conditioning-installation) — sibling entity (same sub-cluster)
+- [new construction air conditioning installation](https://ac-plus-heating-air.mintlify.site/new-construction-air-conditioning-installation)
 
 ---
 
@@ -99,13 +99,13 @@ A ductless mini-split air conditioner shows recognizable signs when it needs att
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -157,13 +157,13 @@ Site assessment comes first. Before any BTU load calculation is run, AC Plus Hea
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation) — sibling entity (same sub-cluster)
+- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation)
 
-- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation) — sibling entity (same sub-cluster)
+- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation)
 
-- [new construction air conditioning installation](https://ac-plus-heating-air.mintlify.site/new-construction-air-conditioning-installation) — sibling entity (same sub-cluster)
+- [new construction air conditioning installation](https://ac-plus-heating-air.mintlify.site/new-construction-air-conditioning-installation)
 
 ---
 
@@ -209,13 +209,13 @@ Rooftop packaged AC unit installation is a common format for light commercial bu
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation) — sibling entity (same sub-cluster)
+- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation)
 
-- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation) — sibling entity (same sub-cluster)
+- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation)
 
-- [new construction air conditioning installation](https://ac-plus-heating-air.mintlify.site/new-construction-air-conditioning-installation) — sibling entity (same sub-cluster)
+- [new construction air conditioning installation](https://ac-plus-heating-air.mintlify.site/new-construction-air-conditioning-installation)
 
 ---
 
@@ -269,13 +269,13 @@ Commissioning skipped or rushed before certificate of occupancy is a third failu
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation) — sibling entity (same sub-cluster)
+- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation)
 
-- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation) — sibling entity (same sub-cluster)
+- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation)
 
-- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation) — sibling entity (same sub-cluster)
+- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation)
 
 ---
 
@@ -319,9 +319,9 @@ AC System Replacement applies to single-family homes, manufactured housing, mult
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [heating installation](https://ac-plus-heating-air.mintlify.site/heating-installation) — sibling entity (same sub-cluster)
+- [heating installation](https://ac-plus-heating-air.mintlify.site/heating-installation)
 
 ---
 
@@ -381,13 +381,13 @@ AC Unit Upgrade Installation applies to any residential or light-commercial prop
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation) — sibling entity (same sub-cluster)
+- [split system ac installation](https://ac-plus-heating-air.mintlify.site/split-system-ac-installation)
 
-- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation) — sibling entity (same sub-cluster)
+- [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation)
 
-- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation) — sibling entity (same sub-cluster)
+- [packaged ac unit installation](https://ac-plus-heating-air.mintlify.site/packaged-ac-unit-installation)
 
 ---
 
@@ -457,9 +457,9 @@ Accurate air conditioning system sizing follows 5 ordered steps, each feeding th
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [load calculation](https://ac-plus-heating-air.mintlify.site/load-calculation) — sibling entity (same sub-cluster)
+- [load calculation](https://ac-plus-heating-air.mintlify.site/load-calculation)
 
 ---
 
@@ -513,13 +513,13 @@ Commercial applications use larger coil assemblies rated above 5 tons, sometimes
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -569,13 +569,13 @@ Condensate drain systems apply to any air conditioning or heat pump installation
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -619,13 +619,13 @@ Correct condensate drain line installation requires planning the route, maintain
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -685,13 +685,13 @@ AC Plus Heating & Air handles pad assessment and outdoor unit placement as part 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -741,13 +741,13 @@ Electrical disconnect switches apply to every piece of air conditioning equipmen
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -799,13 +799,13 @@ AC Plus Heating & Air handles R-32 refrigerant AC unit service, leak diagnosis, 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -863,13 +863,13 @@ HVAC ductwork applies to any building that uses a central forced-air system. Thi
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -931,9 +931,9 @@ Retrofit installations in existing homes are more complex. Technicians must rout
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [air conditioning installation](https://ac-plus-heating-air.mintlify.site/air-conditioning-installation) — sibling entity (same sub-cluster)
+- [air conditioning installation](https://ac-plus-heating-air.mintlify.site/air-conditioning-installation)
 
 ---
 
@@ -975,13 +975,13 @@ Proper installation follows a duct design process that starts with a room-by-roo
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
-- [packaged hvac unit](https://ac-plus-heating-air.mintlify.site/packaged-hvac-unit) — sibling entity (same sub-cluster)
+- [packaged hvac unit](https://ac-plus-heating-air.mintlify.site/packaged-hvac-unit)
 
 ---
 
@@ -1043,13 +1043,13 @@ Vent placement follows the duct layout, which an AC technician sizes using load 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1097,13 +1097,13 @@ Multi-zone climate control suits any building where different areas have meaning
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
-- [packaged hvac unit](https://ac-plus-heating-air.mintlify.site/packaged-hvac-unit) — sibling entity (same sub-cluster)
+- [packaged hvac unit](https://ac-plus-heating-air.mintlify.site/packaged-hvac-unit)
 
 ---
 
@@ -1171,13 +1171,13 @@ AC Plus Heating & Air conducts site assessments in Victorville that cover all of
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1247,13 +1247,13 @@ AC Plus Heating & Air serves Victorville and the surrounding High Desert communi
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1313,13 +1313,13 @@ Fixing inadequate cooling capacity starts with confirming which attribute is out
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1375,13 +1375,13 @@ AC Plus Heating & Air diagnoses inefficient cooling by measuring actual BTU outp
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1445,13 +1445,13 @@ Correct equipment sizing at installation is the first line of defense against un
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1505,13 +1505,13 @@ The contrast between high utility bills and energy efficiency is straightforward
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1577,13 +1577,13 @@ To reduce high energy bills in Victorville, where cooling season runs from April
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1627,13 +1627,13 @@ End-of-life HVAC system replacement in Victorville means removing the aging HVAC
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
-- [packaged hvac unit](https://ac-plus-heating-air.mintlify.site/packaged-hvac-unit) — sibling entity (same sub-cluster)
+- [packaged hvac unit](https://ac-plus-heating-air.mintlify.site/packaged-hvac-unit)
 
 ---
 
@@ -1685,13 +1685,13 @@ Removing an obsolete AC system requires proper refrigerant recovery before any c
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1775,13 +1775,13 @@ A working compressor. One operating at rated pressure and amperage. Is the basel
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1833,13 +1833,13 @@ R-22 Phase-Out compliance for a Victorville property owner means understanding t
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1891,13 +1891,13 @@ Air Duct Sealing applies to any home with a forced-air distribution system, but 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1933,13 +1933,13 @@ Airflow testing is used after a home addition or when a room is converted from u
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -1997,13 +1997,13 @@ Quiet operation is the goal. It is not, however, a guarantee that any single pro
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2063,13 +2063,13 @@ Victorville presents distinct site conditions. The Mojave Desert climate subject
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2125,13 +2125,13 @@ AC Plus Heating & Air completes the full startup and commissioning report on eve
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2187,13 +2187,13 @@ California enforces its own refrigerant regulations through CARB. The agency has
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2249,13 +2249,13 @@ AC Plus Heating & Air applies these Installation Safety Protocols on every job i
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2311,13 +2311,13 @@ AC Plus Heating & Air serves Victorville and the surrounding High Desert area, h
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2375,13 +2375,13 @@ Inspection records and approval certifications are public documents. A property 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2431,13 +2431,13 @@ Insurance carriers may deny claims tied to unpermitted mechanical systems. Some 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2505,13 +2505,13 @@ Insurance companies treat HVAC installation without a permit as a material misre
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2547,13 +2547,13 @@ Meeting California Building Energy Efficiency Standards in Victorville requires 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2607,13 +2607,13 @@ In Victorville, summer temperatures regularly exceed 100 degrees Fahrenheit. HVA
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2669,13 +2669,13 @@ Most manufacturers send a confirmation receipt by email within one business day 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2723,13 +2723,13 @@ Local rebates in Victorville are available through Southern California Edison fo
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2791,13 +2791,13 @@ Utility Rebate Programs for AC installation in Victorville are available through
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2845,13 +2845,13 @@ The professional installation process applies across residential and light comme
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2905,13 +2905,13 @@ A non-rated installation. A home or retrofit where no HERS rater was involved. C
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -2961,13 +2961,13 @@ Title 24 Verification applies to all permitted new AC installations in Californi
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3011,13 +3011,13 @@ Cost estimation methods for AC installation fall into two practical approaches. 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3081,13 +3081,13 @@ Unrated systems present a related problem for contractors. A unit with no AHRI l
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3153,13 +3153,13 @@ Emergency central air conditioner repair covers situations where a complete syst
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3223,13 +3223,13 @@ Scheduling an AC diagnostic inspection before the peak cooling season, typically
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3261,9 +3261,9 @@ Ductless mini-split repair sits within the broader category of air conditioning 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [heat pump cooling system repair](https://ac-plus-heating-air.mintlify.site/heat-pump-cooling-system-repair) — sibling entity (same sub-cluster)
+- [heat pump cooling system repair](https://ac-plus-heating-air.mintlify.site/heat-pump-cooling-system-repair)
 
 ---
 
@@ -3301,9 +3301,9 @@ Heat pump cooling system repair is not the same as Heat Pump Cooling System Inst
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [ductless mini-split repair](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-repair) — sibling entity (same sub-cluster)
+- [ductless mini-split repair](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-repair)
 
 ---
 
@@ -3345,9 +3345,9 @@ Package unit repair applies to any property where a self-contained cabinet suppl
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [emergency air conditioning repair](https://ac-plus-heating-air.mintlify.site/emergency-air-conditioning-repair) — sibling entity (same sub-cluster)
+- [emergency air conditioning repair](https://ac-plus-heating-air.mintlify.site/emergency-air-conditioning-repair)
 
 ---
 
@@ -3409,9 +3409,9 @@ AC Plus Heating & Air carries replacement run capacitors for the major residenti
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [start capacitor](https://ac-plus-heating-air.mintlify.site/start-capacitor) — sibling entity (same sub-cluster)
+- [start capacitor](https://ac-plus-heating-air.mintlify.site/start-capacitor)
 
 ---
 
@@ -3443,9 +3443,9 @@ AC start capacitor replacement is a repair that requires discharging the stored 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [run capacitor](https://ac-plus-heating-air.mintlify.site/run-capacitor) — sibling entity (same sub-cluster)
+- [run capacitor](https://ac-plus-heating-air.mintlify.site/run-capacitor)
 
 ---
 
@@ -3499,13 +3499,13 @@ AC Plus Heating & Air handles contactor diagnosis and replacement as part of its
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3559,13 +3559,13 @@ The contactor is one of the highest-wear components in the outdoor unit. It cycl
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3625,9 +3625,9 @@ AC Plus Heating & Air handles condenser fan motor failure for residential and li
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [ac leaking water](https://ac-plus-heating-air.mintlify.site/ac-leaking-water) — sibling entity (same sub-cluster)
+- [ac leaking water](https://ac-plus-heating-air.mintlify.site/ac-leaking-water)
 
 ---
 
@@ -3679,9 +3679,9 @@ AC circuit board failure diagnosis cost depends on whether the board requires co
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [capacitor failure](https://ac-plus-heating-air.mintlify.site/capacitor-failure) — sibling entity (same sub-cluster)
+- [capacitor failure](https://ac-plus-heating-air.mintlify.site/capacitor-failure)
 
 ---
 
@@ -3743,13 +3743,13 @@ AC Plus Heating & Air serves Victorville and the surrounding High Desert area, d
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3781,13 +3781,13 @@ Expansion valve replacement applies to any split-system or packaged unit that us
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3833,13 +3833,13 @@ Multi-zone systems with multiple air handlers each require their own filter, and
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3889,13 +3889,13 @@ The condensate pan applies to any air conditioning or heat pump system that uses
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -3947,13 +3947,13 @@ The decision to replace refrigerant line set versus reuse the existing one depen
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4007,13 +4007,13 @@ AC Not Blowing Cold Air applies to any vapor-compression cooling system, includi
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4063,13 +4063,13 @@ Proper AC airflow means the system delivers its rated CFM at a static pressure a
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4111,9 +4111,9 @@ AC leaking water in Victorville carries a higher risk of rapid damage than in co
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [condenser fan motor failure](https://ac-plus-heating-air.mintlify.site/condenser-fan-motor-failure) — sibling entity (same sub-cluster)
+- [condenser fan motor failure](https://ac-plus-heating-air.mintlify.site/condenser-fan-motor-failure)
 
 ---
 
@@ -4179,13 +4179,13 @@ AC Plus Heating & Air handles frozen AC unit calls in Victorville, diagnosing th
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4237,9 +4237,9 @@ Noisy AC unit diagnosis in Victorville follows a structured inspection sequence 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [electrical faults in ac system](https://ac-plus-heating-air.mintlify.site/electrical-faults-in-ac-system) — sibling entity (same sub-cluster)
+- [electrical faults in ac system](https://ac-plus-heating-air.mintlify.site/electrical-faults-in-ac-system)
 
 ---
 
@@ -4285,13 +4285,13 @@ AC smell complaints occur most often in year-round systems. Hot, humid climates 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4351,9 +4351,9 @@ Safe repair requires a clear sequence. To repair electrical faults in AC system 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [noisy ac unit](https://ac-plus-heating-air.mintlify.site/noisy-ac-unit) — sibling entity (same sub-cluster)
+- [noisy ac unit](https://ac-plus-heating-air.mintlify.site/noisy-ac-unit)
 
 ---
 
@@ -4401,13 +4401,13 @@ AC Coil Flush Service applies to any refrigerant-based cooling or heating system
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4477,13 +4477,13 @@ Air conditioner electrical fault assessment ends with a written fault report nam
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4523,13 +4523,13 @@ AC Plus Heating & Air serves Victorville and the surrounding High Desert area, h
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4575,13 +4575,13 @@ EPA Refrigerant Handling Regulations apply to every refrigerant-containing syste
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4631,13 +4631,13 @@ The claim filing procedure at AC Plus Heating & Air starts with a direct call to
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4689,13 +4689,13 @@ Keeping the original installation paperwork is the single most common point of f
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4737,13 +4737,13 @@ EPA Section 608 Refrigerant Certification applies to every refrigerant-handling 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4823,13 +4823,13 @@ AC Plus Heating & Air serves Victorville and the surrounding High Desert under a
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
@@ -4891,13 +4891,13 @@ AC Plus Heating & Air serves the Victorville area with direct knowledge of these
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) — hub (first entity covered — link ONCE)
+- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
 
-- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) — sibling entity (same sub-cluster)
+- [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
-- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) — sibling entity (same sub-cluster)
+- [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system)
 
-- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) — sibling entity (same sub-cluster)
+- [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump)
 
 ---
 
