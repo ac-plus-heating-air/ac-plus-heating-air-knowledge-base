@@ -33,6 +33,7 @@
           "heat-pump-cooling-system-repair",
           "condenser-fan-motor-failure",
           "cslb-hvac-contractor-license",
+          "central-air-conditioner-replacement",
           "hvac-contractor",
           "residential-hvac",
           "central-air-conditioning-system",
@@ -90,6 +91,7 @@
           "r-22-refrigerant-phase-out",
           "epa-refrigerant-handling-regulations",
           "california-section-608-refrigerant-certification",
+          "matched-system-replacement",
           "frozen-evaporator-coil",
           "r-22-refrigerant"
         ]
@@ -133,6 +135,7 @@
           "manufacturer-warranty-registration",
           "ac-coil-cleaning-service",
           "ac-parts-manufacturer-warranty",
+          "hvac-equipment-warranty",
           "hvac-tune-up",
           "hvac-maintenance-plan"
         ]
@@ -150,16 +153,6 @@
           "high-desert-climate-heat-stress",
           "high-desert-climate",
           "inland-empire"
-        ]
-      },
-      {
-        "group": "Reviews",
-        "pages": [
-          "ac-plus-heating-air-victorville-reviews",
-          "ac-plus-heating-air-wrightwood-reviews",
-          "ac-plus-heating-air-rancho-cucamonga-reviews",
-          "ac-plus-heating-air-redlands-reviews",
-          "ac-plus-heating-air-reviews"
         ]
       },
       {
@@ -202,6 +195,16 @@
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
+        ]
+      },
+      {
+        "group": "Reviews",
+        "pages": [
+          "ac-plus-heating-air-victorville-reviews",
+          "ac-plus-heating-air-wrightwood-reviews",
+          "ac-plus-heating-air-rancho-cucamonga-reviews",
+          "ac-plus-heating-air-redlands-reviews",
+          "ac-plus-heating-air-reviews"
         ]
       },
       {
