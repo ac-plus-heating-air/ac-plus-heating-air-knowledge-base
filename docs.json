@@ -92,6 +92,8 @@
           "epa-refrigerant-handling-regulations",
           "california-section-608-refrigerant-certification",
           "matched-system-replacement",
+          "split-system-air-conditioner-replacement",
+          "packaged-air-conditioner-replacement",
           "frozen-evaporator-coil",
           "r-22-refrigerant"
         ]
@@ -136,6 +138,8 @@
           "ac-coil-cleaning-service",
           "ac-parts-manufacturer-warranty",
           "hvac-equipment-warranty",
+          "static-pressure-testing",
+          "manufacturer-equipment-warranty",
           "hvac-tune-up",
           "hvac-maintenance-plan"
         ]
@@ -192,6 +196,8 @@
           "ac-leaking-water",
           "ac-freezing-up",
           "noisy-ac-unit",
+          "single-stage-air-conditioner",
+          "ac-system-beyond-repair",
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
