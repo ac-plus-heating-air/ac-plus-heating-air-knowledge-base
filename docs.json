@@ -94,6 +94,10 @@
           "matched-system-replacement",
           "split-system-air-conditioner-replacement",
           "packaged-air-conditioner-replacement",
+          "ac-evaporator-coil-leak",
+          "frequent-ac-breakdowns",
+          "uneven-home-cooling",
+          "refrigerant-handling-regulations",
           "frozen-evaporator-coil",
           "r-22-refrigerant"
         ]
@@ -197,7 +201,11 @@
           "ac-freezing-up",
           "noisy-ac-unit",
           "single-stage-air-conditioner",
+          "variable-speed-air-conditioner",
+          "ac-condensate-drainage-system",
+          "no-ac-cooling",
           "ac-system-beyond-repair",
+          "properly-sized-ac-system",
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
