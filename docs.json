@@ -102,6 +102,7 @@
           "frequent-ac-breakdowns",
           "uneven-home-cooling",
           "refrigerant-handling-regulations",
+          "utility-rebates-for-ac-replacement",
           "frozen-evaporator-coil",
           "r-22-refrigerant"
         ]
@@ -110,6 +111,7 @@
         "group": "Standards & Certifications",
         "pages": [
           "building-codes-compliance",
+          "local-building-codes",
           "nate-certification",
           "epa-section-608-certification"
         ]
@@ -147,6 +149,7 @@
           "ac-coil-cleaning-service",
           "ac-parts-manufacturer-warranty",
           "hvac-equipment-warranty",
+          "hvac-labor-warranty",
           "static-pressure-testing",
           "manufacturer-equipment-warranty",
           "hvac-tune-up",
