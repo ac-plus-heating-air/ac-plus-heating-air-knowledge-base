@@ -5,6 +5,7 @@
 ## Diagnostics & Repairs
 
 * [Refrigerant Handling Regulations](refrigerant-handling-regulations.md)
+* [Utility Rebates for AC Replacement](utility-rebates-for-ac-replacement.md)
 
 ## More Topics
 
