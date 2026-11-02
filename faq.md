@@ -270,7 +270,7 @@ A refrigerant line set, called a copper lineset, is a paired copper tubing assem
 
 ## What is AC not blowing cold air?
 
-AC Not Blowing Cold Air, called insufficient cooling, is a failure state where an air conditioning unit runs but delivers air that is not adequately cooled, leaving supply air temperature more than 2°F above the thermostat setpoint, with measurable drops in airflow volume at vents, abnormal refrigerant pressure readings on the suction and discharge lines, and a compressor that may be cycling on and off or failing to engage at all. This problem is a type of Air Conditioning System Failure and one of the most common reasons homeowners in Victorville call for a service visit during peak summer heat. Diagnosing and fixing insufficient cooling typically involves checking airflow, refrigerant pressures and compressor operation, and the same failure can occur in both residential and light-commercial systems.
+AC Not Blowing Cold Air, called insufficient cooling, is a failure state where an air conditioning unit runs but delivers air that is not adequately cooled, leaving supply air temperature more than 2°F above the thermostat setpoint, with measurable drops in airflow volume at vents, abnormal refrigerant pressure readings on the suction and discharge lines, and a compressor that may be cycling on and off or failing to engage at all. This problem is a type of Air Conditioning System Failure and one of the most common reasons homeowners in Victorville call for a service visit during peak summer heat. Diagnosing and fixing insufficient cooling typically involves checking airflow, refrigerant pressures and compressor operation, and the same failure can occur in many types of air conditioning systems.
 
 ## What is low AC airflow?
 
@@ -286,7 +286,7 @@ AC freezing up, called evaporator coil icing, is a type of Air Conditioner Malfu
 
 ## What is a noisy AC unit?
 
-A noisy AC unit, or loud air conditioner, is a type of AC System Malfunction in which the air conditioning system emits unwanted sounds during operation, including rattling, grinding, buzzing, humming, banging, squealing and clicking, each pointing to a different mechanical or electrical fault inside the system. A properly functioning AC system produces a steady, low-level hum that stays below 60 dB(A) at normal operating distance. Sound levels above that threshold, or any sudden change in noise type, are the clearest early signal that something inside the unit needs attention. AC Plus Heating and Air diagnoses and repairs noisy AC units throughout Victorville, CA.
+A noisy AC unit, or loud air conditioner, is a type of AC System Malfunction in which the air conditioning system emits unwanted sounds during operation, including rattling, grinding, buzzing, humming, banging, squealing and clicking, each pointing to a different mechanical or electrical fault inside the system. A properly functioning AC system produces a steady, low-level hum that stays below 60 dB(A) at normal operating distance. Sound levels above that threshold, or any sudden change in noise type, are the clearest early signal that something inside the unit needs attention. Technicians can typically diagnose and repair a noisy AC unit as part of air conditioning repair in Victorville, CA.
 
 ## What are foul AC odors?
 
@@ -302,7 +302,7 @@ AC Coil Cleaning Service, called AC coil maintenance, is the process of removing
 
 ## What is AC electrical system troubleshooting?
 
-AC electrical system troubleshooting, called HVAC electrical fault finding, is a diagnostic process that identifies faults in an AC unit's electrical circuits and components, including capacitors, contactors, control boards, wiring harnesses, voltage supply lines and low-voltage control circuits. It is a type of Air Conditioning Diagnostic Service, meaning its purpose is diagnosis and fault localization rather than repair or replacement. Technicians can run AC electrical system troubleshooting on central air conditioning systems, ductless units and heat pumps to locate faults in capacitors, contactors, control boards and wiring.
+AC electrical system troubleshooting, called HVAC electrical fault finding, is a diagnostic process that identifies faults in an AC unit's electrical circuits and components, including capacitors, contactors, control boards, wiring harnesses, voltage supply lines and low-voltage control circuits. Contractors generally treat this kind of diagnosis as a separate step from repair or replacement, since its purpose is to locate the fault rather than fix it. Technicians can run AC electrical system troubleshooting on central air conditioning systems, ductless units and heat pumps to locate faults in capacitors, contactors, control boards and wiring.
 
 ## What is R-22 refrigerant phase-out?
 
@@ -326,7 +326,7 @@ California Section 608 Refrigerant Certification. Called a Refrigerant Handling 
 
 ## What is a CSLB HVAC contractor license?
 
-A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing. Contractors working in Victorville generally need an active CSLB license in good standing under this framework.
+A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing. Contractors working in Victorville generally need an active CSLB license in good standing to perform HVAC work legally under this framework.
 
 ## What is high desert climate heat stress?
 
