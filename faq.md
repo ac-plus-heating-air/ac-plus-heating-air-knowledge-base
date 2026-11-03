@@ -206,7 +206,7 @@ Central air conditioning systems are a common type of home cooling equipment. Th
 
 ## What is central air conditioner repair?
 
-Central air conditioner repair, called Ducted Air Conditioning Service or Whole-House AC Repair, is the service of diagnosing and fixing malfunctions in central AC units, covering the compressor, refrigerant circuit, air handler, electrical controls, condensate drain, evaporator coil and the ductwork that distributes conditioned air through the home. It is a type of air conditioner repair, distinguished from window-unit or portable-unit service by the fact that the equipment is permanently installed and serves the entire house through a single ducted system. AC Plus HVAC provides this service to homeowners across Victorville, CA.
+Central air conditioner repair, called Ducted Air Conditioning Service or Whole-House AC Repair, is the service of diagnosing and fixing malfunctions in central AC units, covering the compressor, refrigerant circuit, air handler, electrical controls, condensate drain, evaporator coil and the ductwork that distributes conditioned air through the home. It is a type of air conditioner repair, distinguished from window-unit or portable-unit service by the fact that the equipment is permanently installed and serves the entire house through a single ducted system.
 
 ## What is an AC diagnostic inspection?
 
