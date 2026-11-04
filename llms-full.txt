@@ -4613,7 +4613,7 @@ The warranty period and the claim filing procedure are the two terms homeowners 
 
 An AC repair service warranty applies to the repaired component within a larger mechanical system, so its scope is narrower than a full-system service contract. A repair to the air handler on a [ductless mini split system](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system), for example, carries a warranty on that specific repair event; the outdoor condenser unit and refrigerant lines remain outside that agreement unless they were part of the same service call. Similarly, a [heat pump](https://ac-plus-heating-air.mintlify.site/heat-pump) repair warranty covers the heating and cooling components addressed during the visit, not the entire heat pump assembly.
 
-The warranty is a sibling entity to the broader HVAC Service Guarantee category, which includes maintenance agreements, parts-only warranties, and extended service contracts. Understanding where the AC repair guarantee ends and a separate maintenance plan begins helps homeowners avoid coverage gaps between service events.
+The warranty sits alongside the broader HVAC Service Guarantee category, which includes maintenance agreements, parts-only warranties, and extended service contracts. Understanding where the AC repair guarantee ends and a separate maintenance plan begins helps homeowners avoid coverage gaps between service events.
 
 ### Common problems that trigger an AC repair service warranty claim
 
