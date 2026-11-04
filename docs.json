@@ -172,6 +172,16 @@
         ]
       },
       {
+        "group": "Reviews",
+        "pages": [
+          "ac-plus-heating-air-victorville-reviews",
+          "ac-plus-heating-air-wrightwood-reviews",
+          "ac-plus-heating-air-rancho-cucamonga-reviews",
+          "ac-plus-heating-air-redlands-reviews",
+          "ac-plus-heating-air-reviews"
+        ]
+      },
+      {
         "group": "More Topics",
         "pages": [
           "multi-zone-mini-split-installation",
@@ -216,19 +226,13 @@
           "no-ac-cooling",
           "ac-system-beyond-repair",
           "properly-sized-ac-system",
+          "office-victorville",
+          "office-wrightwood",
+          "office-rancho-cucamonga",
+          "office-redlands",
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
-        ]
-      },
-      {
-        "group": "Reviews",
-        "pages": [
-          "ac-plus-heating-air-victorville-reviews",
-          "ac-plus-heating-air-wrightwood-reviews",
-          "ac-plus-heating-air-rancho-cucamonga-reviews",
-          "ac-plus-heating-air-redlands-reviews",
-          "ac-plus-heating-air-reviews"
         ]
       },
       {
