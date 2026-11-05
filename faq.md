@@ -186,7 +186,7 @@ Central air conditioning systems are a common type of home cooling equipment. Th
 
 ## What is professional installation process?
 
-The professional installation process, called a certified installation workflow, is a defined sequence of technical steps executed by licensed HVAC technicians to site-assess, mount, connect, and commission an air conditioning system so it operates at full capacity from day one. The process covers load calculation, equipment placement, refrigerant line routing, electrical connection, ductwork integration or line-set installation, and final system testing across 6 to 12 discrete stages depending on the system type and structure. Central air conditioning systems are a common type of home cooling equipment.
+A defined installation workflow is a sequence of technical steps that licensed HVAC technicians typically follow to site-assess, mount, connect, and commission an air conditioning system so it can operate at full capacity from day one. The process covers load calculation, equipment placement, refrigerant line routing, electrical connection, ductwork integration or line-set installation, and final system testing across 6 to 12 discrete stages depending on the system type and structure. Central air conditioning systems are a common type of home cooling equipment.
 
 ## What is HERS rating?
 
