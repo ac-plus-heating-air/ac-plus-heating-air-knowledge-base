@@ -210,7 +210,7 @@ Central air conditioner repair, called Ducted Air Conditioning Service or Whole-
 
 ## What is an AC diagnostic inspection?
 
-An AC Diagnostic Inspection, called an air conditioning diagnostic check, is a structured evaluation of a cooling system that identifies faults, performance deficiencies and component failures across refrigerant circuits, electrical controls, thermostat calibration, airflow paths and mechanical parts. An AC system evaluation typically gives a technician the factual baseline needed before a repair decision is made, which is why it commonly comes early in a careful service sequence. Technicians typically begin with a diagnostic inspection of the cooling system, whether it is a central split system, ductless equipment or a heat pump, so that repair decisions rest on observed conditions.
+An AC Diagnostic Inspection, called an air conditioning diagnostic check, is a structured evaluation of a cooling system that identifies faults, performance deficiencies and component failures across refrigerant circuits, electrical controls, thermostat calibration, airflow paths and mechanical parts. An AC system evaluation typically gives a technician the factual baseline needed before a repair decision is made, which is why it commonly comes early in a careful service sequence. Diagnostic inspections of a cooling system, whether a central split system, ductless equipment or a heat pump, typically come first in a service sequence so that repair decisions rest on observed conditions.
 
 ## What is ductless mini-split repair?
 
