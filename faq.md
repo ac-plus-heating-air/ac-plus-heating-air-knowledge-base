@@ -182,7 +182,7 @@ Central air conditioning systems are a common type of home cooling equipment. Th
 
 ## What are utility rebate programs?
 
-Central air conditioning systems are a common type of home cooling equipment. These programs are a type of Energy Efficiency Incentive Programs, administered by local utility providers to reduce grid demand and lower long-term energy consumption across their service territories. Rebate amounts range from $25 to $1,500 per qualifying unit, depending on the equipment type, efficiency rating and the specific program terms. Utility rebate programs like these are typically administered by local utilities, and installers of qualifying equipment can often help identify which programs apply.
+Central air conditioning systems are a common type of home cooling equipment. These programs are a type of Energy Efficiency Incentive Programs, administered by local utility providers to reduce grid demand and lower long-term energy consumption across their service territories. Rebate amounts range from $25 to $1,500 per qualifying unit, depending on the equipment type, efficiency rating and the specific program terms. Utility rebate programs like these are typically administered by local utilities, and contractors can often help customers identify which programs apply to qualifying equipment.
 
 ## What is professional installation process?
 
