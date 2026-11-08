@@ -157,6 +157,24 @@
         ]
       },
       {
+        "group": "Heating",
+        "pages": [
+          "ac-plus-heating-air",
+          "heating-repair",
+          "heating-maintenance",
+          "heating-installation",
+          "furnace-repair",
+          "gas-furnace",
+          "electric-furnace"
+        ]
+      },
+      {
+        "group": "Emergency Service",
+        "pages": [
+          "24-hour-emergency-hvac-service"
+        ]
+      },
+      {
         "group": "Refrigerants",
         "pages": [
           "r-22-phase-out",
@@ -227,9 +245,9 @@
           "ac-system-beyond-repair",
           "properly-sized-ac-system",
           "office-victorville",
-          "office-wrightwood",
           "office-rancho-cucamonga",
           "office-redlands",
+          "office-wrightwood",
           "packaged-hvac-unit",
           "hspf-rating",
           "energy-star-rating"
@@ -240,24 +258,6 @@
         "pages": [
           "indoor-air-quality",
           "air-filter"
-        ]
-      },
-      {
-        "group": "Heating",
-        "pages": [
-          "ac-plus-heating-air",
-          "heating-repair",
-          "heating-maintenance",
-          "heating-installation",
-          "furnace-repair",
-          "gas-furnace",
-          "electric-furnace"
-        ]
-      },
-      {
-        "group": "Emergency Service",
-        "pages": [
-          "24-hour-emergency-hvac-service"
         ]
       },
       {
