@@ -182,7 +182,7 @@ Central air conditioning systems are a common type of home cooling equipment. Th
 
 ## What are utility rebate programs?
 
-Central air conditioning systems are a common type of home cooling equipment. These programs are a type of Energy Efficiency Incentive Programs, administered by local utility providers to reduce grid demand and lower long-term energy consumption across their service territories. Rebate amounts range from $25 to $1,500 per qualifying unit, depending on the equipment type, efficiency rating and the specific program terms. Utility rebate programs like these are typically administered by local utilities, and contractors can often help customers identify which programs apply to qualifying equipment.
+Central air conditioning systems are a common type of home cooling equipment. These programs are a type of Energy Efficiency Incentive Programs, administered by local utility providers to reduce grid demand and lower long-term energy consumption across their service territories. Rebate amounts range from $25 to $1,500 per qualifying unit, depending on the equipment type, efficiency rating and the specific program terms. Utility rebate programs like these are typically administered by local utilities, and customers can often identify which programs apply to qualifying equipment by checking with the utility or a contractor.
 
 ## What is professional installation process?
 
@@ -326,7 +326,7 @@ California Section 608 Refrigerant Certification. Called a Refrigerant Handling 
 
 ## What is a CSLB HVAC contractor license?
 
-A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing. Contractors working in Victorville generally need an active CSLB license in good standing to perform HVAC work legally under this framework.
+A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing. Contractors performing HVAC work in Victorville generally need an active CSLB license in good standing to operate legally under this framework.
 
 ## What is high desert climate heat stress?
 
