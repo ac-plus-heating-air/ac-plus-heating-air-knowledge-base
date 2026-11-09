@@ -73,6 +73,7 @@
           "high-energy-bills",
           "california-building-energy-efficiency-standards",
           "manual-j-load-calculation",
+          "energy-efficiency-rating",
           "seer-rating",
           "load-calculation"
         ]
@@ -126,6 +127,7 @@
           "expansion-valve",
           "foul-ac-odors",
           "ac-repair-service-warranty",
+          "capacitor",
           "capacitor-failure",
           "short-cycling"
         ]
@@ -244,6 +246,7 @@
           "no-ac-cooling",
           "ac-system-beyond-repair",
           "properly-sized-ac-system",
+          "pilot-light-issues",
           "office-victorville",
           "office-rancho-cucamonga",
           "office-redlands",
