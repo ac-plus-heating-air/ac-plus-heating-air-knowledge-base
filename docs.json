@@ -161,6 +161,7 @@
       {
         "group": "Heating",
         "pages": [
+          "strange-noises-from-furnace",
           "ac-plus-heating-air",
           "heating-repair",
           "heating-maintenance",
@@ -246,6 +247,8 @@
           "no-ac-cooling",
           "ac-system-beyond-repair",
           "properly-sized-ac-system",
+          "limit-switch",
+          "vented-combustion-appliances",
           "pilot-light-issues",
           "office-victorville",
           "office-rancho-cucamonga",
