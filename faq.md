@@ -198,7 +198,7 @@ The HERS Verification Test. Called the HERS Test or Home Energy Rating Test. Is 
 
 ## What is cost estimation?
 
-Cost estimation, called a Service Estimate or Installation Quote, is a structured calculation of projected expenses completed before AC installation work begins, covering labor costs, equipment pricing, site survey evaluation, material costs and overhead allocation so a homeowner knows the full financial scope before any work starts. Cost estimation is a type of Business Process, specifically a pre-sale advisory process within AC installation services. A well-prepared estimate breaks the total into numbered line items, assigns a dollar figure to each, and delivers the result to the homeowner within minutes or hours of the site survey.
+Cost estimation, called a Service Estimate or Installation Quote, is a structured calculation of projected expenses completed before AC installation work begins, covering labor costs, equipment pricing, site survey evaluation, material costs and overhead allocation so a homeowner knows the full financial scope before any work starts. Cost estimation is a type of Business Process, specifically a pre-sale advisory process within AC installation services. A well-prepared estimate typically breaks the total into numbered line items and assigns a dollar figure to each, giving the homeowner a clear picture of costs after the site survey.
 
 ## What is AHRI certified equipment?
 
@@ -270,7 +270,7 @@ A refrigerant line set, called a copper lineset, is a paired copper tubing assem
 
 ## What is AC not blowing cold air?
 
-AC Not Blowing Cold Air, called insufficient cooling, is a failure state where an air conditioning unit runs but delivers air that is not adequately cooled, leaving supply air temperature more than 2°F above the thermostat setpoint, with measurable drops in airflow volume at vents, abnormal refrigerant pressure readings on the suction and discharge lines, and a compressor that may be cycling on and off or failing to engage at all. This problem is a type of Air Conditioning System Failure and one of the most common reasons homeowners in Victorville call for a service visit during peak summer heat. Diagnosing and fixing insufficient cooling typically involves checking airflow, refrigerant pressures and compressor operation, and the same failure can occur in many types of air conditioning systems.
+AC Not Blowing Cold Air, called insufficient cooling, is a failure state where an air conditioning unit runs but delivers air that is not adequately cooled, leaving supply air temperature more than 2°F above the thermostat setpoint, with measurable drops in airflow volume at vents, abnormal refrigerant pressure readings on the suction and discharge lines, and a compressor that may be cycling on and off or failing to engage at all. This problem is a type of Air Conditioning System Failure, and insufficient cooling may be among the reasons homeowners request a service visit during peak summer heat. Diagnosing and fixing insufficient cooling typically involves checking airflow, refrigerant pressures and compressor operation, and the same failure can occur in many types of air conditioning systems.
 
 ## What is low AC airflow?
 
