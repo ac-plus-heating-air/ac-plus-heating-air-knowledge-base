@@ -78,7 +78,7 @@ An HVAC zoning system, called a zoned HVAC system, divides a building into indep
 
 ## What is equipment placement?
 
-Equipment Placement, called Unit Siting, is the deliberate process of positioning AC units at specified locations within a structure, covering indoor unit height, outdoor condenser clearance, mount surface load-bearing capacity, orientation relative to sun and airflow, and the distance from walls, obstructions and heat sources. It is a type of Installation Planning, sitting within the broader AC installation process as the phase that determines where every component lands before a single bracket is drilled. System Positioning done correctly sets the foundation for efficiency, airflow balance and long equipment life; done poorly, it creates problems no amount of refrigerant charging or duct sealing can fix.
+Equipment Placement, called Unit Siting, is the deliberate process of positioning AC units at specified locations within a structure, covering indoor unit height, outdoor condenser clearance, mount surface load-bearing capacity, orientation relative to sun and airflow, and the distance from walls, obstructions and heat sources. Installation Planning is a phase within the broader AC installation process, and it typically settles where every component will be placed before any bracket is drilled. System Positioning done correctly sets the foundation for efficiency, airflow balance and long equipment life; done poorly, it creates problems no amount of refrigerant charging or duct sealing can fix.
 
 ## What is insulation?
 
