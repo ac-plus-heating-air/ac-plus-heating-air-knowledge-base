@@ -2,7 +2,7 @@
 
 This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
 
-## Refrigerant handling regulations in Victorville - AC Plus Heating & Air
+## Refrigerant handling regulations in Victorville
 
 Section 608 refrigerant handling regulations form the federal environmental rules that control management, recovery, recycling, and disposal of refrigerants used in air conditioning, refrigeration, and heat pump equipment. These rules establish technician certification requirements, set leak repair timeframes, define recovery efficiency standards, and ban venting. Appointment and service-area details come from [AC Plus HVAC](https://maps.app.goo.gl/4zmpDEivwuLqBT3D9).
 
