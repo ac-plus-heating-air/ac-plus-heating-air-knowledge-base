@@ -18,7 +18,7 @@ The compressor, condenser, evaporator coil and air handler. Are housed inside a 
 
 ## What is new construction air conditioning installation?
 
-New construction air conditioning installation. Called new build AC installation. Is the process of designing, sizing, and installing a complete cooling system in a building under active construction before occupancy. It covers load calculations, rough-in ductwork placement, refrigerant line runs, air handler and condenser unit setting, electrical connections, and final startup commissioning. Walls are still open. That access allows a new build AC setup to be planned around the building's actual layout rather than adapted to it after the fact. That distinction separates this service from retrofit AC installation, where equipment must fit into a finished structure with limited access and fixed pathways.
+New construction air conditioning installation, sometimes called new build AC installation, is typically the process of designing, sizing, and installing a complete cooling system in a building under active construction before occupancy. It covers load calculations, rough-in ductwork placement, refrigerant line runs, air handler and condenser unit setting, electrical connections, and final startup commissioning. Walls are still open. That access allows a new build AC setup to be planned around the building's actual layout rather than adapted to it after the fact. That distinction separates this service from retrofit AC installation, where equipment must fit into a finished structure with limited access and fixed pathways.
 
 ## What is AC system replacement?
 
@@ -198,7 +198,7 @@ The HERS Verification Test. Called the HERS Test or Home Energy Rating Test. Is 
 
 ## What is cost estimation?
 
-Cost estimation, called a Service Estimate or Installation Quote, is a structured calculation of projected expenses completed before AC installation work begins, covering labor costs, equipment pricing, site survey evaluation, material costs and overhead allocation so a homeowner knows the full financial scope before any work starts. Cost estimation is a type of Business Process, specifically a pre-sale advisory process within AC installation services. A well-prepared estimate typically breaks the total into numbered line items and assigns a dollar figure to each, giving the homeowner a clear picture of costs after the site survey.
+Cost estimation, called a Service Estimate or Installation Quote, is a structured calculation of projected expenses completed before AC installation work begins, covering labor costs, equipment pricing, site survey evaluation, material costs and overhead allocation so a homeowner knows the full financial scope before any work starts. Cost estimation is a type of Business Process, typically a pre-sale advisory step within AC installation work in general. A well-prepared estimate typically breaks the total into numbered line items and assigns a dollar figure to each, giving the homeowner a clear picture of costs after the site survey.
 
 ## What is AHRI certified equipment?
 
@@ -326,7 +326,7 @@ California Section 608 Refrigerant Certification. Called a Refrigerant Handling 
 
 ## What is a CSLB HVAC contractor license?
 
-A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing. Contractors performing HVAC work in Victorville generally need an active CSLB license in good standing to operate legally under this framework.
+A CSLB HVAC Contractor License, called a California HVAC Contractor License, is a state-issued Contractor Licensing Credential that authorizes a contractor to legally install, repair and maintain heating, ventilating and air-conditioning systems in California, covering residential split systems, commercial rooftop units, ductless mini splits, heat pumps and related equipment. The California Contractors State License Board issues and enforces this credential, and no contractor may legally perform HVAC work in the state without holding an active license in good standing.
 
 ## What is high desert climate heat stress?
 
