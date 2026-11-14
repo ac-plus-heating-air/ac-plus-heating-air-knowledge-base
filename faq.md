@@ -78,7 +78,7 @@ An HVAC zoning system, called a zoned HVAC system, divides a building into indep
 
 ## What is equipment placement?
 
-Equipment Placement, called Unit Siting, is the deliberate process of positioning AC units at specified locations within a structure, covering indoor unit height, outdoor condenser clearance, mount surface load-bearing capacity, orientation relative to sun and airflow, and the distance from walls, obstructions and heat sources. Installation Planning is a phase within the broader AC installation process, and it typically settles where every component will be placed before any bracket is drilled. System Positioning done correctly sets the foundation for efficiency, airflow balance and long equipment life; done poorly, it creates problems no amount of refrigerant charging or duct sealing can fix.
+Equipment Placement, called Unit Siting, is the deliberate process of positioning AC units at specified locations within a structure, covering indoor unit height, outdoor condenser clearance, mount surface load-bearing capacity, orientation relative to sun and airflow, and the distance from walls, obstructions and heat sources. Installation Planning is a phase within the broader AC installation process, and it typically involves deciding where every component will be placed before any bracket is drilled. System Positioning done correctly sets the foundation for efficiency, airflow balance and long equipment life; done poorly, it creates problems no amount of refrigerant charging or duct sealing can fix.
 
 ## What is insulation?
 
@@ -182,7 +182,7 @@ Central air conditioning systems are a common type of home cooling equipment. Th
 
 ## What are utility rebate programs?
 
-Central air conditioning systems are a common type of home cooling equipment. These programs are a type of Energy Efficiency Incentive Programs, administered by local utility providers to reduce grid demand and lower long-term energy consumption across their service territories. Rebate amounts range from $25 to $1,500 per qualifying unit, depending on the equipment type, efficiency rating and the specific program terms. Utility rebate programs like these are typically administered by local utilities, and customers can often identify which programs apply to qualifying equipment by checking with the utility or a contractor.
+Central air conditioning systems are a common type of home cooling equipment. These programs are a type of Energy Efficiency Incentive Programs, administered by local utility providers to reduce grid demand and lower long-term energy consumption across their service territories. Rebate amounts range from $25 to $1,500 per qualifying unit, depending on the equipment type, efficiency rating and the specific program terms. Utility rebate programs like these are typically administered by local utilities, so checking with the utility is often the way to find out which programs apply to qualifying equipment.
 
 ## What is professional installation process?
 
@@ -314,7 +314,7 @@ EPA Refrigerant Handling Regulations, called Refrigerant Management Rules, are a
 
 ## What is an AC repair service warranty?
 
-An AC Repair Service Warranty, called a service assurance plan, is a contractual commitment that covers defects in labor, parts, or both for a defined period following a completed air conditioning repair, protecting homeowners in Victorville from repeat failures on the same component or workmanship issue. Central air conditioning systems are a common type of home cooling equipment. As a type of HVAC Service Guarantee, it sits within a broader category of service protection instruments that govern post-repair accountability across heating and cooling trades.
+An AC repair service warranty, sometimes called a service assurance plan, is a contractual commitment that typically covers defects in labor, parts, or both for a defined period after a completed air conditioning repair, helping protect homeowners from repeat failures on the same component or workmanship issue. Central air conditioning systems are a common type of home cooling equipment. As a type of HVAC Service Guarantee, it sits within a broader category of service protection instruments that govern post-repair accountability across heating and cooling trades.
 
 ## What is an AC parts manufacturer warranty?
 
