@@ -4,7 +4,7 @@ This page includes promotional and educational information about AC Plus Heating
 
 ## Split system AC installation in Victorville
 
-Split system AC installation, or mini-split installation, mounts a separate indoor air handler and outdoor condenser unit, connects them with refrigerant lines, and wires the system to a dedicated 240V circuit so a building receives cooling without ductwork. The indoor unit attaches to a wall or ceiling. The outdoor condenser sits on a pad or bracket outside. A refrigerant line set runs between them through a small hole in the wall. Because no duct network exists, ductless split installation serves rooms, additions, garages and buildings where running ducts remains impractical or impossible. For more, see our [air conditioning installation](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) overview.
+Split system AC installation, or mini-split installation, mounts a separate indoor air handler and outdoor condenser unit, connects them with refrigerant lines, and wires the system to a dedicated 240V circuit so a building receives cooling without ductwork. The indoor unit attaches to a wall or ceiling. The outdoor condenser sits on a pad or bracket outside. A refrigerant line set runs between them through a small hole in the wall. Because no duct network exists, ductless split installation serves rooms, additions, garages and buildings where running ducts remains impractical or impossible. For more, see our [air conditioning installation](air-conditioning-contractor.md) overview.
 
 ### What split system AC installation is
 
@@ -46,7 +46,7 @@ Split system AC installation problems most often appear during commissioning or 
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [multi-zone mini-split installation](https://ac-plus-heating-air.mintlify.site/multi-zone-mini-split-installation)
 

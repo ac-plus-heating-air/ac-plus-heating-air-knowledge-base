@@ -10,7 +10,7 @@ A single stage air conditioner, known as a 1-Stage AC, functions as a central co
 
 A single stage air conditioner consists of a central air conditioning system equipped with a single-speed compressor limited to two states: fully on or fully off. The compressor delivers maximum capacity from the moment each cycle begins until the thermostat reaches the target temperature, at which point the system stops completely. This on/off behavior distinguishes a single stage unit from a two stage air conditioner or a variable speed air conditioner, both of which operate at reduced capacity in milder conditions.
 
-Single stage air conditioners represent the most common type of residential central air conditioner installed in the United States. Mechanical simplicity results in fewer moving parts, direct troubleshooting when issues arise, and a lower purchase price compared with multi-stage models. A licensed [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) sizes, installs and services a single stage unit according to standard procedures used across most major equipment brands.
+Single stage air conditioners represent the most common type of residential central air conditioner installed in the United States. Mechanical simplicity results in fewer moving parts, direct troubleshooting when issues arise, and a lower purchase price compared with multi-stage models. A licensed [air conditioning contractor](air-conditioning-contractor.md) sizes, installs and services a single stage unit according to standard procedures used across most major equipment brands.
 
 ### Measurable attributes: SEER rating, cooling capacity and compressor operation
 
@@ -38,7 +38,7 @@ Electrical faults in the contactor or capacitor occur often in single stage comp
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 

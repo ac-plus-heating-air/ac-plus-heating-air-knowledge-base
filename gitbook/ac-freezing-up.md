@@ -8,7 +8,7 @@ Evaporator coil icing, known as AC freezing up, constitutes an Air Conditioner M
 
 ### What AC freezing up is
 
-AC freezing up represents a measurable failure state within the refrigeration cycle. In this state the evaporator coil surface temperature drops below 0°C and ice builds on the coil instead of condensate draining normally. During normal AC operation the coil remains cold enough to absorb heat yet warm enough for water to leave as liquid. When that balance fails, refrigerant line icing extends from the indoor coil toward the outdoor unit and the system loses cooling capacity. Confirmation requires suction pressure and coil temperature measurements taken before ice removal, a procedure a [licensed air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) performs.
+AC freezing up represents a measurable failure state within the refrigeration cycle. In this state the evaporator coil surface temperature drops below 0°C and ice builds on the coil instead of condensate draining normally. During normal AC operation the coil remains cold enough to absorb heat yet warm enough for water to leave as liquid. When that balance fails, refrigerant line icing extends from the indoor coil toward the outdoor unit and the system loses cooling capacity. Confirmation requires suction pressure and coil temperature measurements taken before ice removal, a procedure a [licensed air conditioning contractor](air-conditioning-contractor.md) performs.
 
 ### Measurable attributes of a frozen AC unit
 
@@ -62,7 +62,7 @@ Evaporator coil icing that returns after a filter change indicates a refrigerant
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 

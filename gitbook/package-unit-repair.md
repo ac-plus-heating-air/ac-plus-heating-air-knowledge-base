@@ -12,7 +12,7 @@ Package unit repair restores a packaged HVAC cabinet to full heating and cooling
 
 ### Measurable attributes of package unit repair
 
-Package unit repair covers equipment that operates at 208 to 240V, either single-phase or three-phase, and spans a capacity range of 2 to 5 tons. Refrigerant type is one of the first things a technician confirms before opening the system. Older units run on R-22, while current equipment uses R-410A, and the two require different handling procedures. Diagnostic visits for package units involve an inspection and fault identification before any parts are ordered. Warranty terms for package unit repairs vary by contractor, component and labor agreement, and may differ widely from one repair to the next. [An air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor) working on packaged units relies on gauges, recovery equipment and control-board testers suited to these all-in-one cabinets. [AC Plus Heating & Air](https://share.google/z97yfNhVFTifUrhAD) operates as a California licensed HVAC contractor under CSLB License #805216, serving customers in Victorville, Wrightwood, Rancho Cucamonga, and Redlands.
+Package unit repair covers equipment that operates at 208 to 240V, either single-phase or three-phase, and spans a capacity range of 2 to 5 tons. Refrigerant type is one of the first things a technician confirms before opening the system. Older units run on R-22, while current equipment uses R-410A, and the two require different handling procedures. Diagnostic visits for package units involve an inspection and fault identification before any parts are ordered. Warranty terms for package unit repairs vary by contractor, component and labor agreement, and may differ widely from one repair to the next. [An air conditioning contractor](air-conditioning-contractor.md) working on packaged units relies on gauges, recovery equipment and control-board testers suited to these all-in-one cabinets. [AC Plus Heating & Air](https://share.google/z97yfNhVFTifUrhAD) operates as a California licensed HVAC contractor under CSLB License #805216, serving customers in Victorville, Wrightwood, Rancho Cucamonga, and Redlands.
 
 ### How package unit repair relates to the broader HVAC service category
 
@@ -38,7 +38,7 @@ Package unit repair applies to any property where a self-contained cabinet suppl
 
 ### Related entities
 
-- [air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
+- [air conditioning contractor](air-conditioning-contractor.md)
 
 - [emergency air conditioning repair](https://ac-plus-heating-air.mintlify.site/emergency-air-conditioning-repair)
 

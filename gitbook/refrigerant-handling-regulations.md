@@ -26,7 +26,7 @@ EPA 608 Rules contain specific numeric requirements that define compliance. The 
 
 Refrigerant Handling Regulations compliance forms a required condition for legal refrigerant recovery on any air conditioning replacement or repair job. Recovery comes first. A certified technician must recover the existing charge before the old unit is removed. That recovered refrigerant must be reclaimed or properly disposed of rather than released. This requirement links the regulations directly to every stage of equipment replacement. The old system cannot be legally disconnected until recovery is complete. The new system cannot be legally charged until a certified technician performs the work.
 
-See [AC Plus Heating & Air air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor). Work performed under California licensed HVAC contractor, CSLB License #805216 for every refrigerant-involved job in Victorville.
+See [AC Plus Heating & Air air conditioning contractor](air-conditioning-contractor.md). Work performed under California licensed HVAC contractor, CSLB License #805216 for every refrigerant-involved job in Victorville.
 
 ### What opposes refrigerant handling regulations: illegal venting and unregulated disposal
 
@@ -34,7 +34,7 @@ Illegal venting forms the direct antonym of Refrigerant Handling Regulations com
 
 ### Related entities
 
-- [AC Plus Heating & Air air conditioning contractor](https://ac-plus-heating-air.mintlify.site/air-conditioning-contractor)
+- [AC Plus Heating & Air air conditioning contractor](air-conditioning-contractor.md)
 
 - [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system)
 
