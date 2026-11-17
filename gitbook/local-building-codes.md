@@ -1,7 +1,5 @@
 # Local Building Codes: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Local building codes in Victorville
 
 Local building codes, known as HVAC codes or building regulations, consist of legally enforceable rules that control the design, installation, replacement, and inspection of heating, ventilation, and air conditioning systems inside a defined jurisdiction. These rules address minimum equipment efficiency ratings, permit requirements, safety provisions, ductwork standards, and electrical connection rules. Local building codes operate at the municipal or county level. A city inspector holds final authority over whether an installation passes, not a manufacturer or trade association.
@@ -38,4 +36,4 @@ Local building codes apply to every HVAC system type permitted in Victorville. P
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

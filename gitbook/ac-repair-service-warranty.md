@@ -1,7 +1,5 @@
 # AC Repair Service Warranty: A Homeowner's Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## AC repair service warranty coverage in Victorville
 
 An AC repair service warranty, sometimes called a service assurance plan, forms a contract that covers defects in labor, parts, or both for a defined period after a completed air conditioning repair. The agreement protects homeowners from repeat failures on the same component or workmanship issue. The warranty applies to the repair event itself, not to the broader [central air conditioning system](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system) as a whole. Knowing the exact terms of the agreement before work begins matters. As a type of HVAC Service Guarantee, the warranty belongs to a larger group of service protection instruments that govern post-repair accountability across heating and cooling trades. Scheduling and service questions for the area go through [AC Plus](https://maps.app.goo.gl/boGSybpqbf3Kz6Jy5).
@@ -56,4 +54,4 @@ Claim filing procedures for contractor warranties typically begin with a call to
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

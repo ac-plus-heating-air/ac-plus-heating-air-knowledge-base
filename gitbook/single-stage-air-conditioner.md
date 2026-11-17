@@ -1,7 +1,5 @@
 # Single Stage Air Conditioner: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Single stage air conditioner in Victorville
 
 A single stage air conditioner, known as a 1-Stage AC, functions as a central cooling system in which the compressor operates at one fixed speed and turns fully on or fully off according to thermostat demand. The compressor, evaporator coil and condenser coil operate together, with every cooling cycle producing identical output no matter the outdoor temperature or the difference between indoor temperature and the setpoint. [AC Plus Heating & Air](https://maps.app.goo.gl/CSPfmLQTjK7gY1eo8) installs, repairs, replaces and maintains single stage air conditioners throughout Victorville and the surrounding High Desert communities.
@@ -48,4 +46,4 @@ Electrical faults in the contactor or capacitor occur often in single stage comp
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

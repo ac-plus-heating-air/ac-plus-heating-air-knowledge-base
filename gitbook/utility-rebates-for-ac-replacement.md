@@ -1,7 +1,5 @@
 # Utility Rebates for AC Replacement: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Utility rebates for AC replacement in Victorville
 
 Utility rebates for AC replacement, known as Energy Rebates or AC Incentives, function as financial incentive programs from utility companies and government agencies. These programs lower the net cost of replacing an old, inefficient air conditioning system with a qualifying high-efficiency model. The initiatives form part of an Energy Efficiency Program intended to decrease regional electricity demand, reduce household energy bills, and speed the retirement of older equipment that consumes significantly more power than current systems. Rebate programs normally apply to [central air conditioning systems](https://ac-plus-heating-air.mintlify.site/central-air-conditioning-system), [ductless mini split systems](https://ac-plus-heating-air.mintlify.site/ductless-mini-split-system) and [heat pumps](https://ac-plus-heating-air.mintlify.site/heat-pump), which covers nearly every residential replacement project in the Inland Empire.
@@ -42,4 +40,4 @@ Applying for utility rebates for AC replacement follows the same sequence regard
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

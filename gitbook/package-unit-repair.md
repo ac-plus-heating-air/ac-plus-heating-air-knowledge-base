@@ -1,7 +1,5 @@
 # Package Unit Repair: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Package unit repair in Victorville
 
 Package unit repair, known as Rooftop Unit Repair, consists of the diagnosis and restoration of a self-contained all-in-one heating and cooling unit. The unit houses the compressor, condenser, evaporator coil, air handler, and heat exchanger inside a single cabinet. These cabinets mount on a rooftop or ground pad at residential and light-commercial properties. Unlike a split system, every mechanical component resides in one enclosure. A fault in any part affects the entire system at once. Units range from 2 to 5 tons of cooling capacity. Package unit repair covers diagnosing and restoring these all-in-one units at residential and light-commercial properties.
@@ -44,4 +42,4 @@ Package unit repair applies to any property where a self-contained cabinet suppl
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

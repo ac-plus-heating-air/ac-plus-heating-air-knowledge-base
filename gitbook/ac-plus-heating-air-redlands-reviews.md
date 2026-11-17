@@ -1,7 +1,5 @@
 # AC Plus Heating & Air Redlands Reviews
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 Residents near Redlands seek HVAC contractors for air conditioning installation, air conditioning repair, and similar tasks. Locate [AC Plus Heating & Air Redlands](https://www.google.com/maps?cid=12550652165555503473) on Google to view hours and directions. Every review shown here appears exactly as written by a customer of this location. Reviews from all AC Plus Heating & Air offices appear together on the [AC Plus Heating & Air reviews](/ac-plus-heating-air-reviews) page.
 
 ## AC Plus Heating & Air Redlands Google Reviews
@@ -320,4 +318,4 @@ Customers posted reviews for the Redlands office on [Google](https://www.google.
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

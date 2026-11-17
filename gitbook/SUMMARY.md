@@ -1,13 +1,19 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [About this guide](about-this-guide.md)
 
 ## Core Services
 
 * [Air Conditioning Contractor](air-conditioning-contractor.md)
 
+## Efficiency & Sizing
+
+* [SEER Rating](seer-rating.md)
+
 ## Diagnostics & Repairs
 
+* [Uneven Home Cooling](uneven-home-cooling.md)
 * [Refrigerant Handling Regulations](refrigerant-handling-regulations.md)
 * [Utility Rebates for AC Replacement](utility-rebates-for-ac-replacement.md)
 
@@ -23,6 +29,10 @@
 ## AC Installation
 
 * [Split System AC Installation](split-system-ac-installation.md)
+
+## Plans & Tune-Ups
+
+* [Commercial HVAC](commercial-hvac.md)
 
 ## Reviews
 

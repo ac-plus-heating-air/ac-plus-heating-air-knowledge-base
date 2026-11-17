@@ -1,7 +1,5 @@
 # Utility Rebate Programs: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Utility rebate programs in Victorville
 
 Utility Rebate Programs, known as Energy Rebates, supply cash-back payments from utilities to residential and commercial customers who install qualifying high-efficiency HVAC equipment. Covered items include central air conditioning systems, ductless mini split systems, heat pumps and other energy-efficient cooling and heating units. These initiatives belong to the category of Energy Efficiency Incentive Programs. Local utility providers administer them to lower overall grid demand and decrease long-term energy consumption inside their service areas. Rebate amounts range from $25 to $1,500 per qualifying unit according to equipment type, efficiency rating and program rules. Because utilities run the programs, contacting the utility remains the direct method to identify which offers apply to specific equipment. Local scheduling and service details are available from [AC Plus Heating & Air](https://maps.app.goo.gl/oYuLMscP8JEybvy77).
@@ -68,4 +66,4 @@ Utility Rebate Programs for AC installation in Victorville operate through the u
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

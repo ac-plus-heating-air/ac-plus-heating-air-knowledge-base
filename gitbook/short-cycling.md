@@ -1,7 +1,5 @@
 # Short Cycling: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Short cycling in Victorville
 
 Short cycling represents an HVAC system malfunction where a heating or cooling unit starts and stops repeatedly before it finishes a complete temperature equalization cycle. The unit activates, operates for a brief period, then deactivates and reactivates within minutes. Technicians refer to this pattern as short-cycling or, in casual terms, rapid cycling. The condition counts among the more damaging operating states an HVAC system can enter.
@@ -66,4 +64,4 @@ Correcting short cycling begins with identifying which measurable attribute fall
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

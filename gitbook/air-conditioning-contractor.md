@@ -1,7 +1,5 @@
 # Air Conditioning Contractor: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Air conditioning contractor in Victorville - AC Plus Heating & Air
 
 An air conditioning contractor holds a state license to install, repair, and maintain cooling systems inside residential and commercial buildings. This role falls under the Home Services Contractor category. Inside that category the air conditioning contractor focuses on HVAC systems along with refrigerant handling, electrical connections, and airflow design. A heating and cooling company must maintain active state licenses and liability insurance before any technician arrives at a job site.
@@ -78,4 +76,4 @@ The company posts updates on [its Facebook page](https://www.facebook.com/ACPlus
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

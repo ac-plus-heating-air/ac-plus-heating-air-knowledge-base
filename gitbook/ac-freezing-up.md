@@ -1,7 +1,5 @@
 # AC Freezing Up: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## AC freezing up in Victorville
 
 Evaporator coil icing, known as AC freezing up, constitutes an Air Conditioner Malfunction where ice forms on the evaporator coil. The ice blocks airflow and stops the unit from transferring heat out of the building. The condition occurs when coil surface temperature falls below 32°F and causes moisture in the air to freeze on the coil fins, refrigerant lines, and cabinet. An untreated frozen AC unit ceases to cool the space, makes the compressor work against a blocked coil, and can inflict permanent damage on the refrigerant circuit.
@@ -72,4 +70,4 @@ Evaporator coil icing that returns after a filter change indicates a refrigerant
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.

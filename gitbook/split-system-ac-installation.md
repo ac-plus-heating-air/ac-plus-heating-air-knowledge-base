@@ -1,7 +1,5 @@
 # Split System AC Installation: An AC Plus Heating & Air Reference Guide
 
-This page includes promotional and educational information about AC Plus Heating & Air. This site is not operated by AC Plus Heating & Air.
-
 ## Split system AC installation in Victorville
 
 Split system AC installation, or mini-split installation, mounts a separate indoor air handler and outdoor condenser unit, connects them with refrigerant lines, and wires the system to a dedicated 240V circuit so a building receives cooling without ductwork. The indoor unit attaches to a wall or ceiling. The outdoor condenser sits on a pad or bracket outside. A refrigerant line set runs between them through a small hole in the wall. Because no duct network exists, ductless split installation serves rooms, additions, garages and buildings where running ducts remains impractical or impossible. For more, see our [air conditioning installation](air-conditioning-contractor.md) overview.
@@ -56,4 +54,4 @@ Split system AC installation problems most often appear during commissioning or 
 
 ---
 
-This site shares promotional and educational content about AC Plus Heating & Air. Details can change or may contain errors; AC Plus Heating & Air's own website has the official information. This site is not operated by AC Plus Heating & Air.
+Third-party guide to AC Plus Heating & Air, both educational and promotional. Some information may be outdated or contain errors. Visit AC Plus Heating & Air's website for the latest details.
