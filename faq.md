@@ -14,7 +14,7 @@ Multi-Zone Mini-Split Installation, called zoned ductless AC installation, is a 
 
 ## What is packaged AC unit installation?
 
-The compressor, condenser, evaporator coil and air handler. Are housed inside a single outdoor cabinet mounted on a rooftop curb or ground-level pad. Unlike a split system, there are no separate indoor and outdoor units to connect; the entire refrigerant circuit, blower and heat exchanger ship as one assembly. Packaged AC unit installation typically involves connecting the single outdoor cabinet to existing ductwork and electrical supply, and it can be done for both residential and commercial properties.
+The compressor, condenser, evaporator coil and air handler. Are housed inside a single outdoor cabinet mounted on a rooftop curb or ground-level pad. Unlike a split system, there are no separate indoor and outdoor units to connect; the entire refrigerant circuit, blower and heat exchanger ship as one assembly. Packaged AC unit installation typically involves connecting the single outdoor cabinet to existing ductwork and electrical supply, and these units are generally used in both residential and commercial settings.
 
 ## What is new construction air conditioning installation?
 
