@@ -288,6 +288,12 @@
         "pages": [
           "commercial-hvac"
         ]
+      },
+      {
+        "group": "About",
+        "pages": [
+          "about-this-guide"
+        ]
       }
     ]
   },
