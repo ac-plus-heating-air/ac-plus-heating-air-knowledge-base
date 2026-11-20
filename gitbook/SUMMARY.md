@@ -7,15 +7,22 @@
 
 * [Air Conditioning Contractor](air-conditioning-contractor.md)
 
+## Air Distribution
+
+* [Air Duct Cleaning](air-duct-cleaning.md)
+
 ## Efficiency & Sizing
 
 * [SEER Rating](seer-rating.md)
 
 ## Diagnostics & Repairs
 
+* [R-32 Refrigerant](r-32-refrigerant.md)
+* [AC Evaporator Coil Leak](ac-evaporator-coil-leak.md)
 * [Uneven Home Cooling](uneven-home-cooling.md)
 * [Refrigerant Handling Regulations](refrigerant-handling-regulations.md)
 * [Utility Rebates for AC Replacement](utility-rebates-for-ac-replacement.md)
+* [Frozen Evaporator Coil](frozen-evaporator-coil.md)
 
 ## Standards & Certifications
 

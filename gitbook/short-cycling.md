@@ -26,7 +26,7 @@ Tracking these three values over one hour supplies a technician with enough data
 
 Short cycling generates several observable signs before diagnostic equipment enters the picture. The most obvious sign is the sound of the outdoor unit turning on and off repeatedly inside a short window. Rooms feel unevenly cooled because the system shuts down before air circulation reaches every corner of the space and leaves temperature inconsistent throughout. Humidity remains elevated indoors since the evaporator coil requires a sustained run to remove moisture from the air. Energy bills increase even though the system appears to run constantly because compressor restarts consume more power than steady operation.
 
-A frozen evaporator coil functions as both a cause and a result of rapid cycling. Restricted airflow from a clogged filter or low refrigerant lets ice form on the coil surface. That ice blocks additional airflow, activates the safety cutoff, and creates another short cycle. The sequence continues until the system is shut down and the coil thaws. [Frozen evaporator coil](https://ac-plus-heating-air.mintlify.site/frozen-evaporator-coil) conditions require attention before the system restarts or the cycling will resume immediately.
+A frozen evaporator coil functions as both a cause and a result of rapid cycling. Restricted airflow from a clogged filter or low refrigerant lets ice form on the coil surface. That ice blocks additional airflow, activates the safety cutoff, and creates another short cycle. The sequence continues until the system is shut down and the coil thaws. [Frozen evaporator coil](frozen-evaporator-coil.md) conditions require attention before the system restarts or the cycling will resume immediately.
 
 ### How short cycling relates to the broader HVAC system
 
@@ -60,7 +60,7 @@ Correcting short cycling begins with identifying which measurable attribute fall
 
 - [compressor failure](https://ac-plus-heating-air.mintlify.site/compressor-failure)
 
-- [frozen evaporator coil](https://ac-plus-heating-air.mintlify.site/frozen-evaporator-coil)
+- [frozen evaporator coil](frozen-evaporator-coil.md)
 
 ---
 
