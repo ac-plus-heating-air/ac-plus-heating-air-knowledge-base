@@ -26,7 +26,7 @@ AC System Replacement, called an Air Conditioner System Changeout, is the full r
 
 ## What is AC unit upgrade installation?
 
-AC Unit Upgrade Installation, called AC System Replacement, is a full-scope HVAC service that removes an existing air conditioner and installs a new, higher-capacity or higher-efficiency unit in its place, covering equipment removal and disposal, new condenser mounting, refrigerant line connection, electrical disconnect work, ductwork integration and thermostat configuration. AC Unit Upgrade Installation is a type of Air Conditioning Installation, the broader category that includes first-time installs, system expansions and full replacements. Victorville summers routinely push past 100°F, which means an undersized or aging unit stops keeping up long before it fully breaks down.
+AC Unit Upgrade Installation, sometimes called AC System Replacement, is typically a full-scope HVAC job in which an existing air conditioner is removed and a new, higher-capacity or higher-efficiency unit is installed in its place, and such work can include equipment removal and disposal, condenser mounting, refrigerant line connection, electrical disconnect work, ductwork integration and thermostat configuration. AC Unit Upgrade Installation is a type of Air Conditioning Installation, the broader category that includes first-time installs, system expansions and full replacements. Victorville summers routinely push past 100°F, which means an undersized or aging unit stops keeping up long before it fully breaks down.
 
 ## What is air conditioning system sizing?
 
