@@ -6,6 +6,7 @@
 ## Core Services
 
 * [Air Conditioning Contractor](air-conditioning-contractor.md)
+* [Air Conditioning Maintenance](air-conditioning-maintenance.md)
 
 ## Air Distribution
 
@@ -37,6 +38,10 @@
 
 * [Split System AC Installation](split-system-ac-installation.md)
 
+## Heating
+
+* [Heating Maintenance](heating-maintenance.md)
+
 ## Plans & Tune-Ups
 
 * [Commercial HVAC](commercial-hvac.md)
@@ -51,3 +56,4 @@
 * [Package Unit Repair](package-unit-repair.md)
 * [AC Freezing Up](ac-freezing-up.md)
 * [Single Stage Air Conditioner](single-stage-air-conditioner.md)
+* [Pilot Light Issues](pilot-light-issues.md)
