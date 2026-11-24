@@ -52,8 +52,11 @@
 
 ## More Topics
 
+* [Noise Level Considerations](noise-level-considerations.md)
 * [Utility Rebate Programs](utility-rebate-programs.md)
+* [HERS Rating](hers-rating.md)
 * [Package Unit Repair](package-unit-repair.md)
+* [AC Filter](ac-filter.md)
 * [AC Freezing Up](ac-freezing-up.md)
 * [Single Stage Air Conditioner](single-stage-air-conditioner.md)
 * [Pilot Light Issues](pilot-light-issues.md)
