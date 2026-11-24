@@ -22,7 +22,7 @@ New construction air conditioning installation, sometimes called new build AC in
 
 ## What is AC system replacement?
 
-AC System Replacement, called an Air Conditioner System Changeout, is the full removal of an existing cooling system and the installation of a new one, covering the outdoor condenser unit, the indoor air handler or evaporator coil, refrigerant lines, and the electrical connections that tie everything together. It is a type of HVAC Installation Service, sitting in the broader category of planned equipment upgrades rather than emergency repairs. Most residential systems in the Victorville area reach replacement age somewhere between 10 and 20 years, and a new AC unit installation restores reliable cooling, lowers monthly energy use and eliminates the compounding repair bills that come with aging equipment. A full changeout typically moves from an initial load calculation through the final refrigerant charge and commissioning.
+AC System Replacement, called an Air Conditioner System Changeout, is the full removal of an existing cooling system and the installation of a new one, covering the outdoor condenser unit, the indoor air handler or evaporator coil, refrigerant lines, and the electrical connections that tie everything together. It is a type of HVAC Installation Service, sitting in the broader category of planned equipment upgrades rather than emergency repairs. Most residential systems in the Victorville area reach replacement age somewhere between 10 and 20 years, and a new AC unit installation restores reliable cooling, lowers monthly energy use and eliminates the compounding repair bills that come with aging equipment. Replacement projects typically run from an initial load calculation through the final refrigerant charge and commissioning.
 
 ## What is AC unit upgrade installation?
 
@@ -314,7 +314,7 @@ EPA Refrigerant Handling Regulations, called Refrigerant Management Rules, are a
 
 ## What is an AC repair service warranty?
 
-An AC repair service warranty, sometimes called a service assurance plan, is a contractual commitment that typically covers defects in labor, parts, or both for a defined period after a completed air conditioning repair, helping protect homeowners from repeat failures on the same component or workmanship issue. Central air conditioning systems are a common type of home cooling equipment. As a type of HVAC Service Guarantee, it sits within a broader category of service protection instruments that govern post-repair accountability across heating and cooling trades.
+Central air conditioning systems are a common type of home cooling equipment. As a type of HVAC Service Guarantee, it sits within a broader category of service protection instruments that govern post-repair accountability across heating and cooling trades.
 
 ## What is an AC parts manufacturer warranty?
 
