@@ -42,6 +42,10 @@
 
 * [Heating Maintenance](heating-maintenance.md)
 
+## Refrigerants
+
+* [R-22 Phase-Out](r-22-phase-out.md)
+
 ## Plans & Tune-Ups
 
 * [Commercial HVAC](commercial-hvac.md)
@@ -59,4 +63,6 @@
 * [AC Filter](ac-filter.md)
 * [AC Freezing Up](ac-freezing-up.md)
 * [Single Stage Air Conditioner](single-stage-air-conditioner.md)
+* [Gas Valve](gas-valve.md)
+* [Limit Switch](limit-switch.md)
 * [Pilot Light Issues](pilot-light-issues.md)
