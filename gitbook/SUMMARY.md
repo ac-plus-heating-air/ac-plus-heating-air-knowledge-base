@@ -18,6 +18,7 @@
 
 ## Diagnostics & Repairs
 
+* [Electrical Disconnect Switch](electrical-disconnect-switch.md)
 * [R-32 Refrigerant](r-32-refrigerant.md)
 * [AC Evaporator Coil Leak](ac-evaporator-coil-leak.md)
 * [Uneven Home Cooling](uneven-home-cooling.md)
@@ -56,13 +57,16 @@
 
 ## More Topics
 
+* [Inefficient Cooling](inefficient-cooling.md)
 * [Noise Level Considerations](noise-level-considerations.md)
 * [Utility Rebate Programs](utility-rebate-programs.md)
 * [HERS Rating](hers-rating.md)
 * [Package Unit Repair](package-unit-repair.md)
+* [AC Circuit Board Failure](ac-circuit-board-failure.md)
 * [AC Filter](ac-filter.md)
 * [AC Freezing Up](ac-freezing-up.md)
 * [Single Stage Air Conditioner](single-stage-air-conditioner.md)
 * [Gas Valve](gas-valve.md)
+* [Induced Draft Motor](induced-draft-motor.md)
 * [Limit Switch](limit-switch.md)
 * [Pilot Light Issues](pilot-light-issues.md)
